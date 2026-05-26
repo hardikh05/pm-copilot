@@ -1,0 +1,87 @@
+[
+  {
+    "id": 1,
+    "feature_id": 19,
+    "feature_title": "Improve Search and Re-evaluate Subscription Pricing",
+    "feature_rice_score": 3.0,
+    "version": 1,
+    "status": "draft",
+    "title": "Fix Search Quality and Address Pricing Friction",
+    "summary": "Search filters silently fail and recipe matching is unreliable, pushing power users to cancel. Combined with $15/mo perceived as steep, this cluster drives the highest churn risk across our corpus. This PRD scopes the search fixes and a pricing-experiment track.",
+    "content": {
+      "problem": "Across 10 distinct feedback items, users report that search returns irrelevant results (dessert recipes when querying 'pasta'), filters do not apply (vegan + under-30-min still returns steak dishes), and saved recipes can be missing from search results entirely. The same cluster surfaces strong pricing pushback: $15/mo is described as 'too expensive for a recipe app' by paying users, several of whom mention cancelling. The two themes co-occur because pricing tolerance collapses when core search is broken — users only notice the cost when the product feels low-value.",
+      "goal": "Restore search reliability to a measurable baseline (>90% query-success rate) and validate whether the current $15/mo price point is the actual churn driver — within 8 weeks.",
+      "user_stories": [
+        "As a free-tier user evaluating Pro, I want search filters to actually filter so that I can trust the product before paying.",
+        "As a Pro subscriber, I want to find recipes I have saved so that my collection is reliable.",
+        "As a vegan user, I want the vegan filter to exclude all animal products so that I don't have to manually verify every result.",
+        "As a price-sensitive user, I want clearer feature/value framing during the upgrade flow so that the $15 price feels justified."
+      ],
+      "success_metrics": [
+        "Query success rate (clicks within top-3 results / total queries) >= 90% within 30 days of search-fix launch (baseline: ~62%).",
+        "Search-related support tickets down 50% within 30 days of launch.",
+        "Cancellation rate citing 'search' or 'price' in exit survey down 25% within 60 days.",
+        "Pricing A/B test: incremental revenue per visitor at $12/mo vs $15/mo, measured over 4 weeks with 80% statistical power."
+      ],
+      "requirements": [
+        "Fix filter intersection bug: vegan + time + cuisine filters must AND together, not OR.",
+        "Fix saved-recipe indexing: any recipe in the user's 'Saved' collection must appear when searched by name with <=1 character typo (Levenshtein <= 1).",
+        "Fix dietary classification: vegan filter must exclude any recipe whose ingredient list contains items from the maintained 'animal_products' taxonomy (>=120 entries).",
+        "Search latency: P95 query response time <= 800ms on Android (current P95 is 5.1s — see related cluster 'Slow Android Search Performance').",
+        "Pricing experiment: implement traffic-split assignment ($12/$15) at signup, persisted per user, with a kill-switch under feature-flag pricing.experiment.v1.",
+        "Exit survey: add 'reason for cancelling' multi-select with options including 'too expensive', 'search broken', 'missing features', 'other'."
+      ],
+      "edge_cases": [
+        "User has filters active from a previous session — should they persist or reset on app open? (Decision: reset; document in changelog.)",
+        "Vegan filter + an ingredient query like 'butter' — return vegan-butter alternatives only, with a banner explaining the substitution.",
+        "Saved recipe deleted from source DB but still in user's Saved list — search should return it with a 'no longer available' badge, not silently drop.",
+        "User in pricing experiment churns and rejoins — must land in the same price cohort to avoid revenue contamination.",
+        "Free-tier user hits search 100+ times/day — apply rate limit and surface upsell, do not silently slow them down."
+      ],
+      "out_of_scope": [
+        "Voice search (separate cluster, lower priority).",
+        "Recipe recommendation engine improvements (covered by 'Recipe accuracy' PRD).",
+        "Annual subscription pricing — pricing experiment is monthly-tier only for this round.",
+        "Localization of the exit survey — English-only for v1, ship i18n in a follow-up."
+      ]
+    },
+    "source_feedback_ids": [12, 47, 89, 134, 201, 256, 312, 378, 410, 489],
+    "critique_notes": [
+      {
+        "section": "success_metrics",
+        "severity": "medium",
+        "category": "missing_metric",
+        "message": "The 'query success rate' baseline is given as approximately 62% but the methodology for measuring it is not specified.",
+        "suggestion": "Define query-success as: a user clicks one of the top-3 results within 30s of submitting a query, AND does not refine the query within 60s. Measure on backend logs, not client-side, to avoid bias.",
+        "status": "open"
+      },
+      {
+        "section": "requirements",
+        "severity": "low",
+        "category": "ambiguity",
+        "message": "'Maintained animal_products taxonomy (>=120 entries)' — unclear who maintains it and how it's updated.",
+        "suggestion": "Add: 'Taxonomy is owned by the Content team and reviewed quarterly; updates are PR-reviewed by the on-call PM.'",
+        "status": "open"
+      },
+      {
+        "section": "user_stories",
+        "severity": "low",
+        "category": "ambiguity",
+        "message": "Last user story ('clearer feature/value framing') is vague — what specifically gets clearer?",
+        "suggestion": "Replace with: 'As a price-sensitive user, I want to see a comparison of free-tier vs Pro features on the upgrade screen, with the 3 features I have used most this week highlighted, so the price feels tied to value I have experienced.'",
+        "status": "open"
+      },
+      {
+        "section": "edge_cases",
+        "severity": "high",
+        "category": "untestable",
+        "message": "'Free-tier user hits search 100+ times/day — apply rate limit and surface upsell.' What is the rate limit threshold? What does 'surface upsell' look like?",
+        "suggestion": "Specify: 'After the 100th search of the day on free tier, return a soft-gate modal with the Pro upgrade CTA; subsequent searches return results but with the upsell banner pinned for the rest of the day.'",
+        "status": "open"
+      }
+    ],
+    "_meta": {
+      "note": "Representative example output captured from a prior live run. Structurally identical to what backend/app/agents/prd_generator.py produces; critique_notes match the schema from backend/app/agents/prd_critic.py."
+    }
+  }
+]

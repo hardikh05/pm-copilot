@@ -1,0 +1,16 @@
+# Optional: run Postgres + pgvector locally instead of using Supabase/Neon.
+# `docker compose up -d` then point backend/.env at postgresql+psycopg://pmcopilot:pmcopilot@localhost:5432/pmcopilot
+services:
+  db:
+    image: pgvector/pgvector:pg16
+    environment:
+      POSTGRES_USER: pmcopilot
+      POSTGRES_PASSWORD: pmcopilot
+      POSTGRES_DB: pmcopilot
+    ports:
+      - "5432:5432"
+    volumes:
+      - pmcopilot_db:/var/lib/postgresql/data
+
+volumes:
+  pmcopilot_db:

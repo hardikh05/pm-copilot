@@ -1,0 +1,171 @@
+[
+  {
+    "id": 10,
+    "label": "Recipe accuracy and subscription value",
+    "summary": "Users are experiencing significant issues with recipe accuracy, including receiving non-vegan options when specifically requested and search functionality failing to find saved recipes. Additionally, several users feel the current subscription price is too high for the features offered, particularly the lack of grocery integration in pro plans. Syncing issues between devices are also leading to user frustration and cancellations.",
+    "size": 10,
+    "sentiment": {
+      "positive_pct": 0.0,
+      "neutral_pct": 0.2,
+      "negative_pct": 0.8,
+      "avg_score": -0.59
+    },
+    "sample_feedback_ids": [
+      258,
+      241,
+      267,
+      285,
+      291
+    ]
+  },
+  {
+    "id": 15,
+    "label": "Request for dark mode",
+    "summary": "Users are requesting the addition of a dark mode feature. This is primarily to reduce eye strain, especially when using the app at night or in low-light conditions. Implementing dark mode is seen as a significant improvement to the user experience.",
+    "size": 7,
+    "sentiment": {
+      "positive_pct": 0.571,
+      "neutral_pct": 0.429,
+      "negative_pct": 0.0,
+      "avg_score": 0.443
+    },
+    "sample_feedback_ids": [
+      250,
+      264,
+      295,
+      296,
+      298
+    ]
+  },
+  {
+    "id": 12,
+    "label": "Slow Android Search Performance",
+    "summary": "Users are reporting significant performance issues with the search functionality on Android devices. The search process is consistently described as being excessively slow, with load times exceeding five seconds. This is negatively impacting the user experience on the Android platform.",
+    "size": 7,
+    "sentiment": {
+      "positive_pct": 0.0,
+      "neutral_pct": 0.0,
+      "negative_pct": 1.0,
+      "avg_score": -0.7
+    },
+    "sample_feedback_ids": [
+      253,
+      255,
+      261,
+      249,
+      272
+    ]
+  },
+  {
+    "id": 16,
+    "label": "Unlabeled cluster",
+    "summary": "",
+    "size": 6,
+    "sentiment": {
+      "positive_pct": 0.0,
+      "neutral_pct": 0.0,
+      "negative_pct": 1.0,
+      "avg_score": -0.583
+    },
+    "sample_feedback_ids": [
+      251,
+      257,
+      281,
+      297,
+      302
+    ]
+  },
+  {
+    "id": 11,
+    "label": "AI recipe ingredient hallucinations",
+    "summary": "Users appreciate the AI recipe feature when it generates accurate suggestions. However, a significant portion of the time, the AI hallucinates ingredients that are not available or do not make sense in the context of the recipe. This inconsistency detracts from the overall usefulness of the feature.",
+    "size": 6,
+    "sentiment": {
+      "positive_pct": 0.0,
+      "neutral_pct": 1.0,
+      "negative_pct": 0.0,
+      "avg_score": 0.083
+    },
+    "sample_feedback_ids": [
+      252,
+      263,
+      269,
+      275,
+      308
+    ]
+  },
+  {
+    "id": 18,
+    "label": "Excellent meal planning app",
+    "summary": "Users are highly satisfied with the meal planning app, frequently recommending it to family and friends. They specifically praise the new weekly meal plan feature. Overall, the app is considered the best meal planning tool they have used.",
+    "size": 5,
+    "sentiment": {
+      "positive_pct": 1.0,
+      "neutral_pct": 0.0,
+      "negative_pct": 0.0,
+      "avg_score": 0.88
+    },
+    "sample_feedback_ids": [
+      287,
+      289,
+      293,
+      304,
+      312
+    ]
+  },
+  {
+    "id": 14,
+    "label": "Pro subscription payment issues",
+    "summary": "Users are experiencing problems with Pro subscription payments, including failed transactions and delayed feature unlocks after successful charges. Some users also reported unresponsive customer support when trying to resolve these payment-related issues. These problems prevent users from accessing desired Pro features.",
+    "size": 5,
+    "sentiment": {
+      "positive_pct": 0.0,
+      "neutral_pct": 0.0,
+      "negative_pct": 1.0,
+      "avg_score": -0.86
+    },
+    "sample_feedback_ids": [
+      254,
+      274,
+      300,
+      306,
+      247
+    ]
+  },
+  {
+    "id": 17,
+    "label": "Unlabeled cluster",
+    "summary": "",
+    "size": 4,
+    "sentiment": {
+      "positive_pct": 1.0,
+      "neutral_pct": 0.0,
+      "negative_pct": 0.0,
+      "avg_score": 0.825
+    },
+    "sample_feedback_ids": [
+      259,
+      290,
+      277,
+      280
+    ]
+  },
+  {
+    "id": 13,
+    "label": "App is beautiful and easy",
+    "summary": "Users consistently praise the app's beautiful design and ease of use. This positive feedback indicates strong user satisfaction with the current interface and overall user experience. The recurring sentiment suggests the app is meeting user expectations for aesthetics and usability.",
+    "size": 4,
+    "sentiment": {
+      "positive_pct": 1.0,
+      "neutral_pct": 0.0,
+      "negative_pct": 0.0,
+      "avg_score": 0.9
+    },
+    "sample_feedback_ids": [
+      245,
+      273,
+      294,
+      311
+    ]
+  }
+]

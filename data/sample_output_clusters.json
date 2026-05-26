@@ -1,0 +1,171 @@
+[
+  {
+    "id": 19,
+    "label": "Pricing and Search Accuracy",
+    "summary": "Users find the monthly subscription price of $15 to be too high for a recipe app. They are also experiencing significant issues with the search functionality, where filters are not working correctly and the app fails to find saved or relevant recipes. This includes receiving non-vegan results when vegan options are specifically requested.",
+    "size": 10,
+    "sentiment": {
+      "positive_pct": 0.0,
+      "neutral_pct": 0.2,
+      "negative_pct": 0.8,
+      "avg_score": -0.59
+    },
+    "sample_feedback_ids": [
+      241,
+      242,
+      246,
+      258,
+      285
+    ]
+  },
+  {
+    "id": 24,
+    "label": "Request for dark mode",
+    "summary": "Users are requesting the addition of a dark mode feature. This is primarily to reduce eye strain, especially when using the app at night or in low-light conditions. Implementing dark mode is seen as a significant improvement to the user experience.",
+    "size": 7,
+    "sentiment": {
+      "positive_pct": 0.571,
+      "neutral_pct": 0.429,
+      "negative_pct": 0.0,
+      "avg_score": 0.443
+    },
+    "sample_feedback_ids": [
+      250,
+      264,
+      295,
+      296,
+      298
+    ]
+  },
+  {
+    "id": 21,
+    "label": "Slow Android Search Performance",
+    "summary": "Users are experiencing significant delays when using the search function on Android devices. The search operation consistently takes over five seconds to complete. This slow performance is a recurring issue reported by multiple users.",
+    "size": 7,
+    "sentiment": {
+      "positive_pct": 0.0,
+      "neutral_pct": 0.0,
+      "negative_pct": 1.0,
+      "avg_score": -0.7
+    },
+    "sample_feedback_ids": [
+      243,
+      249,
+      253,
+      255,
+      261
+    ]
+  },
+  {
+    "id": 25,
+    "label": "Confusing Onboarding Process",
+    "summary": "Users find the initial experience confusing and are unsure of the app's purpose until later stages. The onboarding process is perceived as slow and requests excessive information before users can begin using the application. This suggests a need to clarify the app's value proposition earlier and streamline the initial setup.",
+    "size": 6,
+    "sentiment": {
+      "positive_pct": 0.0,
+      "neutral_pct": 0.0,
+      "negative_pct": 1.0,
+      "avg_score": -0.583
+    },
+    "sample_feedback_ids": [
+      251,
+      257,
+      278,
+      281,
+      297
+    ]
+  },
+  {
+    "id": 20,
+    "label": "AI Recipe Ingredient Hallucinations",
+    "summary": "Users appreciate the AI recipe suggestion feature when it functions correctly. However, a significant portion of the time, the AI suggests ingredients that are nonsensical or not actually available. This inconsistency detracts from the usefulness of the feature.",
+    "size": 6,
+    "sentiment": {
+      "positive_pct": 0.0,
+      "neutral_pct": 1.0,
+      "negative_pct": 0.0,
+      "avg_score": 0.083
+    },
+    "sample_feedback_ids": [
+      248,
+      252,
+      263,
+      269,
+      275
+    ]
+  },
+  {
+    "id": 27,
+    "label": "Excellent meal planning features",
+    "summary": "Users are highly satisfied with the meal planning capabilities of the app. They specifically praise the new weekly meal plan feature. Many users recommend the app to others due to its effectiveness.",
+    "size": 5,
+    "sentiment": {
+      "positive_pct": 1.0,
+      "neutral_pct": 0.0,
+      "negative_pct": 0.0,
+      "avg_score": 0.88
+    },
+    "sample_feedback_ids": [
+      287,
+      289,
+      293,
+      304,
+      312
+    ]
+  },
+  {
+    "id": 23,
+    "label": "Pro subscription payment issues",
+    "summary": "Users are experiencing significant delays or outright failures when attempting to purchase Pro features. Payments are sometimes charged without unlocking the features, or the subscription process times out or fails silently. This is compounded by a lack of response from customer support.",
+    "size": 5,
+    "sentiment": {
+      "positive_pct": 0.0,
+      "neutral_pct": 0.0,
+      "negative_pct": 1.0,
+      "avg_score": -0.86
+    },
+    "sample_feedback_ids": [
+      247,
+      254,
+      274,
+      300,
+      306
+    ]
+  },
+  {
+    "id": 26,
+    "label": "Pantry Adaptation and Recipe Suggestions",
+    "summary": "Users are highly satisfied with the system's ability to adapt to their pantry contents. They find the AI-powered recipe suggestions to be brilliant and time-saving. This feature is considered a significant improvement and a 'game changer'.",
+    "size": 4,
+    "sentiment": {
+      "positive_pct": 1.0,
+      "neutral_pct": 0.0,
+      "negative_pct": 0.0,
+      "avg_score": 0.825
+    },
+    "sample_feedback_ids": [
+      259,
+      277,
+      280,
+      290
+    ]
+  },
+  {
+    "id": 22,
+    "label": "App is beautiful and easy",
+    "summary": "Users consistently praise the app's beautiful design and ease of use. This positive feedback suggests a strong user experience that resonates well with the current user base. The sentiment is overwhelmingly positive, with multiple users awarding the highest possible rating.",
+    "size": 4,
+    "sentiment": {
+      "positive_pct": 1.0,
+      "neutral_pct": 0.0,
+      "negative_pct": 0.0,
+      "avg_score": 0.9
+    },
+    "sample_feedback_ids": [
+      245,
+      273,
+      294,
+      311
+    ]
+  }
+]

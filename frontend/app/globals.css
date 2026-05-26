@@ -1,0 +1,29 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root { color-scheme: dark; }
+
+html, body { background: #0b0d12; color: #e7ecf3; }
+
+* { box-sizing: border-box; }
+
+::-webkit-scrollbar { width: 10px; height: 10px; }
+::-webkit-scrollbar-track { background: transparent; }
+::-webkit-scrollbar-thumb { background: #1f2430; border-radius: 6px; }
+::-webkit-scrollbar-thumb:hover { background: #2a3140; }
+
+@layer components {
+  .card { @apply bg-panel border border-border rounded-xl; }
+  .card-hover { @apply hover:border-accent/40 transition-colors; }
+  .btn { @apply inline-flex items-center justify-center gap-2 px-3 py-2 rounded-md text-sm font-medium transition-colors border border-border bg-panel2 hover:border-accent/60; }
+  .btn-primary { @apply bg-accent text-bg border-accent hover:bg-accent/90; }
+  .btn-ghost { @apply bg-transparent border-transparent hover:bg-panel2; }
+  .badge { @apply inline-flex items-center px-2 py-0.5 rounded-full text-[11px] font-medium border border-border bg-panel2; }
+  .input { @apply w-full bg-panel2 border border-border rounded-md px-3 py-2 text-sm placeholder:text-muted focus:outline-none focus:border-accent/60; }
+  .label { @apply text-xs uppercase tracking-wider text-muted; }
+  .h1 { @apply text-2xl font-semibold tracking-tight; }
+  .h2 { @apply text-lg font-semibold; }
+  .muted { @apply text-muted; }
+  .divider { @apply h-px bg-border; }
+}

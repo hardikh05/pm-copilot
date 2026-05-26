@@ -1,0 +1,137 @@
+[
+  {
+    "id": 19,
+    "title": "Improve Search and Re-evaluate Subscription Pricing",
+    "description": "Enhance search functionality to ensure accurate results and filter adherence. Concurrently, review the current $15/month subscription price in light of user feedback and feature set.",
+    "rice_score": 2.95,
+    "rice_breakdown": {
+      "reach": 10,
+      "impact": 2.0,
+      "confidence": 0.59,
+      "effort_weeks": 4.0
+    },
+    "strategy_bucket": "bet",
+    "rationale": "High negative sentiment and explicit feedback on both search accuracy and pricing indicate a significant user pain point. Addressing these could improve retention and satisfaction.",
+    "from_cluster_id": 19
+  },
+  {
+    "id": 21,
+    "title": "Address: Slow Android Search Performance",
+    "description": "Users are experiencing significant delays when using the search function on Android devices. The search operation consistently takes over five seconds to complete. This slow performance is a recurring issue reported by multiple users.",
+    "rice_score": 2.48,
+    "rice_breakdown": {
+      "reach": 7,
+      "impact": 1.0,
+      "confidence": 0.71,
+      "effort_weeks": 2.0
+    },
+    "strategy_bucket": "quick_win",
+    "rationale": "Fallback estimate after LLM error.",
+    "from_cluster_id": 21
+  },
+  {
+    "id": 24,
+    "title": "Address: Request for dark mode",
+    "description": "Users are requesting the addition of a dark mode feature. This is primarily to reduce eye strain, especially when using the app at night or in low-light conditions. Implementing dark mode is seen as a significant improvement to the user experience.",
+    "rice_score": 2.06,
+    "rice_breakdown": {
+      "reach": 7,
+      "impact": 1.0,
+      "confidence": 0.59,
+      "effort_weeks": 2.0
+    },
+    "strategy_bucket": "quick_win",
+    "rationale": "Fallback estimate after LLM error.",
+    "from_cluster_id": 24
+  },
+  {
+    "id": 25,
+    "title": "Address: Confusing Onboarding Process",
+    "description": "Users find the initial experience confusing and are unsure of the app's purpose until later stages. The onboarding process is perceived as slow and requests excessive information before users can begin using the application. This suggests a need to clarify the app's value proposition earlier and streamline the initial setup.",
+    "rice_score": 1.98,
+    "rice_breakdown": {
+      "reach": 6,
+      "impact": 1.0,
+      "confidence": 0.66,
+      "effort_weeks": 2.0
+    },
+    "strategy_bucket": "quick_win",
+    "rationale": "Fallback estimate after LLM error.",
+    "from_cluster_id": 25
+  },
+  {
+    "id": 20,
+    "title": "Improve AI Recipe Ingredient Accuracy",
+    "description": "Implement checks and balances for AI-generated recipe ingredient lists to ensure accuracy and relevance. This involves refining the AI model or adding post-generation validation.",
+    "rice_score": 1.98,
+    "rice_breakdown": {
+      "reach": 6,
+      "impact": 1.0,
+      "confidence": 0.66,
+      "effort_weeks": 2.0
+    },
+    "strategy_bucket": "quick_win",
+    "rationale": "The AI recipe feature is highly valued but frequently undermined by ingredient hallucinations, causing user frustration. Addressing this will significantly improve the reliability and user experience of a core feature.",
+    "from_cluster_id": 20
+  },
+  {
+    "id": 23,
+    "title": "Address: Pro subscription payment issues",
+    "description": "Users are experiencing significant delays or outright failures when attempting to purchase Pro features. Payments are sometimes charged without unlocking the features, or the subscription process times out or fails silently. This is compounded by a lack of response from customer support.",
+    "rice_score": 1.62,
+    "rice_breakdown": {
+      "reach": 5,
+      "impact": 1.0,
+      "confidence": 0.65,
+      "effort_weeks": 2.0
+    },
+    "strategy_bucket": "quick_win",
+    "rationale": "Fallback estimate after LLM error.",
+    "from_cluster_id": 23
+  },
+  {
+    "id": 27,
+    "title": "Address: Excellent meal planning features",
+    "description": "Users are highly satisfied with the meal planning capabilities of the app. They specifically praise the new weekly meal plan feature. Many users recommend the app to others due to its effectiveness.",
+    "rice_score": 1.57,
+    "rice_breakdown": {
+      "reach": 5,
+      "impact": 1.0,
+      "confidence": 0.63,
+      "effort_weeks": 2.0
+    },
+    "strategy_bucket": "quick_win",
+    "rationale": "Fallback estimate after LLM error.",
+    "from_cluster_id": 27
+  },
+  {
+    "id": 26,
+    "title": "Address: Pantry Adaptation and Recipe Suggestions",
+    "description": "Users are highly satisfied with the system's ability to adapt to their pantry contents. They find the AI-powered recipe suggestions to be brilliant and time-saving. This feature is considered a significant improvement and a 'game changer'.",
+    "rice_score": 1.26,
+    "rice_breakdown": {
+      "reach": 4,
+      "impact": 1.0,
+      "confidence": 0.63,
+      "effort_weeks": 2.0
+    },
+    "strategy_bucket": "quick_win",
+    "rationale": "Fallback estimate after LLM error.",
+    "from_cluster_id": 26
+  },
+  {
+    "id": 22,
+    "title": "Maintain current design and usability standards",
+    "description": "Continue to prioritize and maintain the current high standards for app design and ease of use. This involves ongoing design reviews and usability testing to ensure the app remains intuitive and aesthetically pleasing.",
+    "rice_score": 1.24,
+    "rice_breakdown": {
+      "reach": 4,
+      "impact": 0.25,
+      "confidence": 0.62,
+      "effort_weeks": 0.5
+    },
+    "strategy_bucket": "bet",
+    "rationale": "The cluster indicates users are highly satisfied with the current design and usability. The impact score is minor because this is about maintaining the status quo rather than introducing new value. Effort is low for ongoing maintenance.",
+    "from_cluster_id": 22
+  }
+]

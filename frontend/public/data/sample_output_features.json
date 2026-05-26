@@ -1,0 +1,137 @@
+[
+  {
+    "id": 10,
+    "title": "Address: Recipe accuracy and subscription value",
+    "description": "Users are experiencing significant issues with recipe accuracy, including receiving non-vegan options when specifically requested and search functionality failing to find saved recipes. Additionally, several users feel the current subscription price is too high for the features offered, particularly the lack of grocery integration in pro plans. Syncing issues between devices are also leading to user frustration and cancellations.",
+    "rice_score": 2.95,
+    "rice_breakdown": {
+      "reach": 10,
+      "impact": 1.0,
+      "confidence": 0.59,
+      "effort_weeks": 2.0
+    },
+    "strategy_bucket": "quick_win",
+    "rationale": "Fallback estimate after LLM error.",
+    "from_cluster_id": 10
+  },
+  {
+    "id": 16,
+    "title": "Improve clarity and speed of initial user onboarding",
+    "description": "Redesign the initial onboarding flow to clearly articulate the app's value proposition upfront and streamline the information gathering process. Reduce the number of steps or data required before users can experience the core functionality.",
+    "rice_score": 2.64,
+    "rice_breakdown": {
+      "reach": 6,
+      "impact": 2.0,
+      "confidence": 0.66,
+      "effort_weeks": 3.0
+    },
+    "strategy_bucket": "bet",
+    "rationale": "The cluster indicates a significant pain point for new users, with multiple feedback items highlighting confusion and a slow onboarding process. Improving this initial experience is crucial for user retention and adoption, justifying a high impact score. The effort is estimated as medium, assuming a redesign and implementation effort.",
+    "from_cluster_id": 16
+  },
+  {
+    "id": 12,
+    "title": "Address: Slow Android Search Performance",
+    "description": "Users are reporting significant performance issues with the search functionality on Android devices. The search process is consistently described as being excessively slow, with load times exceeding five seconds. This is negatively impacting the user experience on the Android platform.",
+    "rice_score": 2.48,
+    "rice_breakdown": {
+      "reach": 7,
+      "impact": 1.0,
+      "confidence": 0.71,
+      "effort_weeks": 2.0
+    },
+    "strategy_bucket": "quick_win",
+    "rationale": "Fallback estimate after LLM error.",
+    "from_cluster_id": 12
+  },
+  {
+    "id": 18,
+    "title": "Enhance existing meal planning features",
+    "description": "Investigate opportunities to further improve the highly praised weekly meal plan feature and other core meal planning functionalities. This could involve adding more customization options or integrating advanced recipe discovery.",
+    "rice_score": 2.36,
+    "rice_breakdown": {
+      "reach": 5,
+      "impact": 3.0,
+      "confidence": 0.63,
+      "effort_weeks": 4.0
+    },
+    "strategy_bucket": "bet",
+    "rationale": "Users are extremely satisfied and consider this the best meal planning app they've used, with specific praise for the weekly meal plan feature. Enhancing these core strengths will likely maintain high satisfaction and continued recommendations.",
+    "from_cluster_id": 18
+  },
+  {
+    "id": 15,
+    "title": "Implement Dark Mode for Reduced Eye Strain",
+    "description": "Introduce a dark mode option to the application to improve user comfort and reduce eye strain, particularly in low-light environments. This feature will cater to user requests for a more accessible and pleasant viewing experience.",
+    "rice_score": 2.06,
+    "rice_breakdown": {
+      "reach": 7,
+      "impact": 1.0,
+      "confidence": 0.59,
+      "effort_weeks": 2.0
+    },
+    "strategy_bucket": "quick_win",
+    "rationale": "The cluster shows a strong demand for dark mode, with a significant portion of feedback being positive and highlighting eye strain reduction. While not a core functionality, it's a highly requested UX enhancement that impacts a substantial number of users, justifying a medium impact score.",
+    "from_cluster_id": 15
+  },
+  {
+    "id": 11,
+    "title": "Address: AI recipe ingredient hallucinations",
+    "description": "Users appreciate the AI recipe feature when it generates accurate suggestions. However, a significant portion of the time, the AI hallucinates ingredients that are not available or do not make sense in the context of the recipe. This inconsistency detracts from the overall usefulness of the feature.",
+    "rice_score": 1.98,
+    "rice_breakdown": {
+      "reach": 6,
+      "impact": 1.0,
+      "confidence": 0.66,
+      "effort_weeks": 2.0
+    },
+    "strategy_bucket": "quick_win",
+    "rationale": "Fallback estimate after LLM error.",
+    "from_cluster_id": 11
+  },
+  {
+    "id": 14,
+    "title": "Improve Pro subscription payment reliability and support",
+    "description": "Implement robust payment processing to prevent failed transactions and ensure immediate Pro feature unlocks. Enhance customer support responsiveness for payment-related inquiries.",
+    "rice_score": 1.62,
+    "rice_breakdown": {
+      "reach": 5,
+      "impact": 2.0,
+      "confidence": 0.65,
+      "effort_weeks": 4.0
+    },
+    "strategy_bucket": "risk",
+    "rationale": "This issue directly prevents users from accessing paid features and causes significant frustration, leading to negative sentiment. Addressing payment failures and support delays is crucial for revenue and user retention.",
+    "from_cluster_id": 14
+  },
+  {
+    "id": 17,
+    "title": "Enhance pantry adaptation and AI recipe suggestions",
+    "description": "Further refine the AI's ability to adapt to user pantry contents and improve the quality and variety of recipe suggestions. This aims to build on the current positive user experience.",
+    "rice_score": 1.26,
+    "rice_breakdown": {
+      "reach": 4,
+      "impact": 2.0,
+      "confidence": 0.63,
+      "effort_weeks": 4.0
+    },
+    "strategy_bucket": "bet",
+    "rationale": "Users are highly positive about the pantry adaptation and AI recipe suggestions, calling them 'brilliant' and a 'game changer'. Enhancing these core features will likely increase user satisfaction and engagement.",
+    "from_cluster_id": 17
+  },
+  {
+    "id": 13,
+    "title": "Address: App is beautiful and easy",
+    "description": "Users consistently praise the app's beautiful design and ease of use. This positive feedback indicates strong user satisfaction with the current interface and overall user experience. The recurring sentiment suggests the app is meeting user expectations for aesthetics and usability.",
+    "rice_score": 1.24,
+    "rice_breakdown": {
+      "reach": 4,
+      "impact": 1.0,
+      "confidence": 0.62,
+      "effort_weeks": 2.0
+    },
+    "strategy_bucket": "quick_win",
+    "rationale": "Fallback estimate after LLM error.",
+    "from_cluster_id": 13
+  }
+]

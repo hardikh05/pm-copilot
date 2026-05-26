@@ -1,0 +1,4002 @@
+[
+  {
+    "text": "Search doesn't find recipes I've literally saved.",
+    "source": "zendesk",
+    "rating": "",
+    "user_segment": "power_user",
+    "author": "Sam X.",
+    "created_at": "2026-04-24T18:32:54.026795+00:00"
+  },
+  {
+    "text": "Saved recipes on iPhone don't sync to my iPad. Made me cancel.",
+    "source": "nps",
+    "rating": 1,
+    "user_segment": "free_tier",
+    "author": "Yuki A.",
+    "created_at": "2026-04-28T18:32:54.026795+00:00"
+  },
+  {
+    "text": "Search is way too slow on Android \u2014 takes 5+ seconds.",
+    "source": "nps",
+    "rating": 3,
+    "user_segment": "power_user",
+    "author": "Riley L.",
+    "created_at": "2026-02-12T01:32:54.026795+00:00"
+  },
+  {
+    "text": "Loved the recipes but the signup flow asks for my address?? Why?",
+    "source": "zendesk",
+    "rating": "",
+    "user_segment": "smb",
+    "author": "Sam M.",
+    "created_at": "2026-05-12T23:32:54.026795+00:00"
+  },
+  {
+    "text": "App is beautiful and easy to use. 5 stars.",
+    "source": "zendesk",
+    "rating": "",
+    "user_segment": "smb",
+    "author": "Diego D.",
+    "created_at": "2026-02-12T00:32:54.026795+00:00"
+  },
+  {
+    "text": "Pro features should include grocery integration at this price.",
+    "source": "app_store",
+    "rating": 3,
+    "user_segment": "free_tier",
+    "author": "Chen U.",
+    "created_at": "2026-02-08T05:32:54.026795+00:00"
+  },
+  {
+    "text": "Tried to subscribe to Pro but the payment failed silently.",
+    "source": "play_store",
+    "rating": 2,
+    "user_segment": "new_user",
+    "author": "Riley J.",
+    "created_at": "2026-05-15T18:32:54.026795+00:00"
+  },
+  {
+    "text": "AI suggestions are great when they work but maybe 30% of the time the ingredients don't make sense.",
+    "source": "play_store",
+    "rating": 3,
+    "user_segment": "enterprise",
+    "author": "Sam V.",
+    "created_at": "2026-04-10T19:32:54.026795+00:00"
+  },
+  {
+    "text": "Search is way too slow on Android \u2014 takes 5+ seconds.",
+    "source": "play_store",
+    "rating": 2,
+    "user_segment": "enterprise",
+    "author": "Diego H.",
+    "created_at": "2026-03-27T13:32:54.026795+00:00"
+  },
+  {
+    "text": "Please add dark mode, my eyes hurt at night cooking.",
+    "source": "play_store",
+    "rating": 3,
+    "user_segment": "smb",
+    "author": "Maya C.",
+    "created_at": "2026-02-11T15:32:54.026795+00:00"
+  },
+  {
+    "text": "First-time experience felt confusing \u2014 I wasn't sure what the app actually did until step 4.",
+    "source": "zendesk",
+    "rating": "",
+    "user_segment": "smb",
+    "author": "Riley W.",
+    "created_at": "2026-04-28T05:32:54.026795+00:00"
+  },
+  {
+    "text": "AI suggestions are great when they work but maybe 30% of the time the ingredients don't make sense.",
+    "source": "play_store",
+    "rating": 3,
+    "user_segment": "free_tier",
+    "author": "Maya Z.",
+    "created_at": "2026-02-19T08:32:54.026795+00:00"
+  },
+  {
+    "text": "Search is way too slow on Android \u2014 takes 5+ seconds.",
+    "source": "nps",
+    "rating": 2,
+    "user_segment": "new_user",
+    "author": "Alex D.",
+    "created_at": "2026-03-21T10:32:54.026795+00:00"
+  },
+  {
+    "text": "Card was charged but Pro features didn't unlock for 48 hours. Support never replied.",
+    "source": "interview",
+    "rating": "",
+    "user_segment": "smb",
+    "author": "Yuki Q.",
+    "created_at": "2026-05-17T13:32:54.026795+00:00"
+  },
+  {
+    "text": "Search is way too slow on Android \u2014 takes 5+ seconds.",
+    "source": "app_store",
+    "rating": 2,
+    "user_segment": "enterprise",
+    "author": "Chen D.",
+    "created_at": "2026-02-27T08:32:54.026795+00:00"
+  },
+  {
+    "text": "Loved the recipes but the signup flow asks for my address?? Why?",
+    "source": "nps",
+    "rating": 3,
+    "user_segment": "free_tier",
+    "author": "Sam W.",
+    "created_at": "2026-03-22T20:32:54.026795+00:00"
+  },
+  {
+    "text": "First-time experience felt confusing \u2014 I wasn't sure what the app actually did until step 4.",
+    "source": "interview",
+    "rating": "",
+    "user_segment": "enterprise",
+    "author": "Priya T.",
+    "created_at": "2026-04-30T21:32:54.026795+00:00"
+  },
+  {
+    "text": "$15/month for what is essentially a recipe app is too much.",
+    "source": "interview",
+    "rating": "",
+    "user_segment": "new_user",
+    "author": "Sam M.",
+    "created_at": "2026-04-14T10:32:54.026795+00:00"
+  },
+  {
+    "text": "Love how it adapts to my pantry. Real game changer.",
+    "source": "play_store",
+    "rating": 5,
+    "user_segment": "new_user",
+    "author": "Sam Z.",
+    "created_at": "2026-04-25T07:32:54.026795+00:00"
+  },
+  {
+    "text": "Asked for a vegan dinner with chickpeas, got a recipe with chicken. Made me cancel.",
+    "source": "play_store",
+    "rating": 1,
+    "user_segment": "free_tier",
+    "author": "Priya J.",
+    "created_at": "2026-03-02T10:32:54.026795+00:00"
+  },
+  {
+    "text": "Search is way too slow on Android \u2014 takes 5+ seconds.",
+    "source": "nps",
+    "rating": "",
+    "user_segment": "power_user",
+    "author": "Maya N.",
+    "created_at": "2026-01-27T08:32:54.026795+00:00"
+  },
+  {
+    "text": "Pricing went up without warning \u2014 felt sneaky.",
+    "source": "nps",
+    "rating": "",
+    "user_segment": "power_user",
+    "author": "Jordan C.",
+    "created_at": "2026-03-29T22:32:54.026795+00:00"
+  },
+  {
+    "text": "Love the AI recipe feature when it nails it \u2014 but it hallucinates ingredients I don't have.",
+    "source": "interview",
+    "rating": "",
+    "user_segment": "power_user",
+    "author": "Alex C.",
+    "created_at": "2026-04-26T07:32:54.026795+00:00"
+  },
+  {
+    "text": "Please add dark mode, my eyes hurt at night cooking.",
+    "source": "play_store",
+    "rating": 3,
+    "user_segment": "enterprise",
+    "author": "Sam S.",
+    "created_at": "2026-01-31T00:32:54.026795+00:00"
+  },
+  {
+    "text": "Skipped most of the onboarding and now the app keeps prompting me to finish it.",
+    "source": "play_store",
+    "rating": 2,
+    "user_segment": "free_tier",
+    "author": "Noor H.",
+    "created_at": "2026-02-22T07:32:54.026795+00:00"
+  },
+  {
+    "text": "Lost my shopping list when I switched phones. No way to recover.",
+    "source": "play_store",
+    "rating": 1,
+    "user_segment": "smb",
+    "author": "Chen P.",
+    "created_at": "2026-05-13T04:32:54.026795+00:00"
+  },
+  {
+    "text": "Asked for a vegan dinner with chickpeas, got a recipe with chicken.",
+    "source": "app_store",
+    "rating": 1,
+    "user_segment": "enterprise",
+    "author": "Sam H.",
+    "created_at": "2026-04-04T02:32:54.026795+00:00"
+  },
+  {
+    "text": "Charged twice for the same month \u2014 Happens every time.",
+    "source": "play_store",
+    "rating": 2,
+    "user_segment": "smb",
+    "author": "Jordan C.",
+    "created_at": "2026-05-02T17:32:54.026795+00:00"
+  },
+  {
+    "text": "Love the AI recipe feature when it nails it \u2014 but it hallucinates ingredients I don't have.",
+    "source": "app_store",
+    "rating": 3,
+    "user_segment": "new_user",
+    "author": "Sam H.",
+    "created_at": "2026-03-03T08:32:54.026795+00:00"
+  },
+  {
+    "text": "The subscribe button just spins forever. Tried on iOS and web, same thing.",
+    "source": "nps",
+    "rating": 2,
+    "user_segment": "power_user",
+    "author": "Riley A.",
+    "created_at": "2026-01-31T00:32:54.026795+00:00"
+  },
+  {
+    "text": "Pricing went up without warning \u2014 felt sneaky.",
+    "source": "nps",
+    "rating": 2,
+    "user_segment": "enterprise",
+    "author": "Jordan B.",
+    "created_at": "2026-05-06T19:32:54.026795+00:00"
+  },
+  {
+    "text": "Search is way too slow on Android \u2014 takes 5+ seconds.",
+    "source": "app_store",
+    "rating": 3,
+    "user_segment": "free_tier",
+    "author": "Noor S.",
+    "created_at": "2026-05-19T00:32:54.026795+00:00"
+  },
+  {
+    "text": "App is beautiful and easy to use. 5 stars.",
+    "source": "play_store",
+    "rating": 5,
+    "user_segment": "power_user",
+    "author": "Sam V.",
+    "created_at": "2026-03-21T23:32:54.026795+00:00"
+  },
+  {
+    "text": "Card was charged but Pro features didn't unlock for 48 hours. Support never replied.",
+    "source": "app_store",
+    "rating": 1,
+    "user_segment": "new_user",
+    "author": "Yuki C.",
+    "created_at": "2026-03-12T06:32:54.026795+00:00"
+  },
+  {
+    "text": "Love the AI recipe feature when it nails it \u2014 but it hallucinates ingredients I don't have.",
+    "source": "interview",
+    "rating": "",
+    "user_segment": "enterprise",
+    "author": "Jordan X.",
+    "created_at": "2026-03-20T15:32:54.026795+00:00"
+  },
+  {
+    "text": "Meal plan I built on the web is missing from the mobile app.",
+    "source": "zendesk",
+    "rating": "",
+    "user_segment": "enterprise",
+    "author": "Noor L.",
+    "created_at": "2026-04-05T21:32:54.026795+00:00"
+  },
+  {
+    "text": "The AI recipe suggestions are genuinely brilliant. Saved me so much time this week.",
+    "source": "app_store",
+    "rating": 5,
+    "user_segment": "new_user",
+    "author": "Sam T.",
+    "created_at": "2026-03-07T07:32:54.026795+00:00"
+  },
+  {
+    "text": "Onboarding is slow and asks for too much info before I can even try the app.",
+    "source": "play_store",
+    "rating": 2,
+    "user_segment": "power_user",
+    "author": "Chen K.",
+    "created_at": "2026-02-02T23:32:54.026795+00:00"
+  },
+  {
+    "text": "Charged twice for the same month \u2014",
+    "source": "zendesk",
+    "rating": "",
+    "user_segment": "free_tier",
+    "author": "Alex X.",
+    "created_at": "2026-03-08T05:32:54.026795+00:00"
+  },
+  {
+    "text": "Love how it adapts to my pantry. Real game changer.",
+    "source": "app_store",
+    "rating": 5,
+    "user_segment": "new_user",
+    "author": "Diego E.",
+    "created_at": "2026-04-22T22:32:54.026795+00:00"
+  },
+  {
+    "text": "First-time experience felt confusing \u2014 I wasn't sure what the app actually did until step 4.",
+    "source": "play_store",
+    "rating": 3,
+    "user_segment": "enterprise",
+    "author": "Diego R.",
+    "created_at": "2026-04-29T04:32:54.026795+00:00"
+  },
+  {
+    "text": "Took me 10 minutes to get past the dietary preferences screen. Way too many questions.",
+    "source": "nps",
+    "rating": "",
+    "user_segment": "enterprise",
+    "author": "Priya W.",
+    "created_at": "2026-05-21T01:32:54.026795+00:00"
+  },
+  {
+    "text": "Free tier is so limited it's basically useless. Either make it free or be clear it's paid.",
+    "source": "nps",
+    "rating": "",
+    "user_segment": "new_user",
+    "author": "Sam C.",
+    "created_at": "2026-04-01T08:32:54.026795+00:00"
+  },
+  {
+    "text": "Free tier is so limited it's basically useless. Either make it free or be clear it's paid.",
+    "source": "interview",
+    "rating": "",
+    "user_segment": "free_tier",
+    "author": "Diego E.",
+    "created_at": "2026-05-21T14:32:54.026795+00:00"
+  },
+  {
+    "text": "Asked for a vegan dinner with chickpeas, got a recipe with chicken. Contacted support, no reply yet.",
+    "source": "zendesk",
+    "rating": "",
+    "user_segment": "enterprise",
+    "author": "Jordan X.",
+    "created_at": "2026-01-31T00:32:54.026795+00:00"
+  },
+  {
+    "text": "Took me 20 minutes to get past the dietary preferences screen. Way too many questions.",
+    "source": "interview",
+    "rating": "",
+    "user_segment": "free_tier",
+    "author": "Priya H.",
+    "created_at": "2026-02-01T12:32:54.026795+00:00"
+  },
+  {
+    "text": "Best meal planning app I've used. Recommended to my whole family.",
+    "source": "nps",
+    "rating": 5,
+    "user_segment": "power_user",
+    "author": "Maya F.",
+    "created_at": "2026-02-14T12:32:54.026795+00:00"
+  },
+  {
+    "text": "Saved recipes on iPhone don't sync to my iPad. Happens every time.",
+    "source": "app_store",
+    "rating": 2,
+    "user_segment": "smb",
+    "author": "Chen K.",
+    "created_at": "2026-04-27T19:32:54.026795+00:00"
+  },
+  {
+    "text": "Best meal planning app I've used. Recommended to my whole family.",
+    "source": "play_store",
+    "rating": 4,
+    "user_segment": "smb",
+    "author": "Chen J.",
+    "created_at": "2026-03-02T19:32:54.026795+00:00"
+  },
+  {
+    "text": "Love how it adapts to my pantry. Real game changer.",
+    "source": "zendesk",
+    "rating": "",
+    "user_segment": "smb",
+    "author": "Diego L.",
+    "created_at": "2026-03-04T09:32:54.026795+00:00"
+  },
+  {
+    "text": "$15/month for what is essentially a recipe app is too much.",
+    "source": "zendesk",
+    "rating": "",
+    "user_segment": "enterprise",
+    "author": "Alex D.",
+    "created_at": "2026-05-03T07:32:54.026795+00:00"
+  },
+  {
+    "text": "The search bar doesn't accept Unicode characters \u2014 can't search for cr\u00e8me br\u00fbl\u00e9e.",
+    "source": "zendesk",
+    "rating": "",
+    "user_segment": "free_tier",
+    "author": "Sam N.",
+    "created_at": "2026-03-31T06:32:54.026795+00:00"
+  },
+  {
+    "text": "Best meal planning app I've used. Recommended to my whole family.",
+    "source": "zendesk",
+    "rating": "",
+    "user_segment": "smb",
+    "author": "Alex S.",
+    "created_at": "2026-05-20T03:32:54.026795+00:00"
+  },
+  {
+    "text": "App is beautiful and easy to use. 5 stars.",
+    "source": "play_store",
+    "rating": 5,
+    "user_segment": "enterprise",
+    "author": "Yuki L.",
+    "created_at": "2026-03-31T23:32:54.026795+00:00"
+  },
+  {
+    "text": "Please add dark mode, my eyes hurt at night cooking.",
+    "source": "zendesk",
+    "rating": "",
+    "user_segment": "smb",
+    "author": "Chen N.",
+    "created_at": "2026-03-22T16:32:54.026795+00:00"
+  },
+  {
+    "text": "Dark mode would be a huge upgrade.",
+    "source": "play_store",
+    "rating": 4,
+    "user_segment": "power_user",
+    "author": "Yuki U.",
+    "created_at": "2026-03-01T13:32:54.026795+00:00"
+  },
+  {
+    "text": "First-time experience felt confusing \u2014 I wasn't sure what the app actually did until step 4.",
+    "source": "app_store",
+    "rating": 3,
+    "user_segment": "smb",
+    "author": "Yuki V.",
+    "created_at": "2026-04-19T19:32:54.026795+00:00"
+  },
+  {
+    "text": "Loving the app overall, only wish: dark mode!",
+    "source": "nps",
+    "rating": 4,
+    "user_segment": "power_user",
+    "author": "Sam K.",
+    "created_at": "2026-03-21T10:32:54.026795+00:00"
+  },
+  {
+    "text": "Search is way too slow on Android \u2014 takes 5+ seconds.",
+    "source": "zendesk",
+    "rating": "",
+    "user_segment": "enterprise",
+    "author": "Jordan G.",
+    "created_at": "2026-05-14T18:32:54.026795+00:00"
+  },
+  {
+    "text": "Tried to subscribe to Pro but the payment timed out. Happens every time.",
+    "source": "interview",
+    "rating": "",
+    "user_segment": "smb",
+    "author": "Riley W.",
+    "created_at": "2026-02-06T23:32:54.026795+00:00"
+  },
+  {
+    "text": "Filters in search don't actually filter. Vegan + under 30min still shows steak.",
+    "source": "nps",
+    "rating": 1,
+    "user_segment": "new_user",
+    "author": "Sam P.",
+    "created_at": "2026-03-03T03:32:54.026795+00:00"
+  },
+  {
+    "text": "First-time experience felt confusing \u2014 I wasn't sure what the app actually did until step 4.",
+    "source": "nps",
+    "rating": 3,
+    "user_segment": "smb",
+    "author": "Priya Q.",
+    "created_at": "2026-01-28T22:32:54.026795+00:00"
+  },
+  {
+    "text": "Why is there no dark theme in 2025?",
+    "source": "nps",
+    "rating": "",
+    "user_segment": "smb",
+    "author": "Diego Q.",
+    "created_at": "2026-02-22T09:32:54.026795+00:00"
+  },
+  {
+    "text": "The new weekly meal plan feature is fantastic.",
+    "source": "nps",
+    "rating": 4,
+    "user_segment": "enterprise",
+    "author": "Diego R.",
+    "created_at": "2026-02-07T05:32:54.026795+00:00"
+  },
+  {
+    "text": "The search bar doesn't accept Unicode characters \u2014 can't search for cr\u00e8me br\u00fbl\u00e9e.",
+    "source": "nps",
+    "rating": 3,
+    "user_segment": "enterprise",
+    "author": "Chen T.",
+    "created_at": "2026-04-25T17:32:54.026795+00:00"
+  },
+  {
+    "text": "Card was charged but Pro features didn't unlock for 12 hours. Support never replied.",
+    "source": "nps",
+    "rating": "",
+    "user_segment": "new_user",
+    "author": "Riley P.",
+    "created_at": "2026-02-24T19:32:54.026795+00:00"
+  },
+  {
+    "text": "Generated recipe had no measurements for half the ingredients.",
+    "source": "nps",
+    "rating": 2,
+    "user_segment": "new_user",
+    "author": "Yuki N.",
+    "created_at": "2026-04-06T07:32:54.026795+00:00"
+  },
+  {
+    "text": "AI suggestions are great when they work but maybe 30% of the time the ingredients don't make sense.",
+    "source": "zendesk",
+    "rating": "",
+    "user_segment": "smb",
+    "author": "Diego Z.",
+    "created_at": "2026-02-18T13:32:54.026795+00:00"
+  },
+  {
+    "text": "Meal plan I built on the web is missing from the mobile app.",
+    "source": "nps",
+    "rating": 2,
+    "user_segment": "smb",
+    "author": "Chen X.",
+    "created_at": "2026-03-25T01:32:54.026795+00:00"
+  },
+  {
+    "text": "Loving the app overall, only wish: dark mode!",
+    "source": "play_store",
+    "rating": 5,
+    "user_segment": "free_tier",
+    "author": "Diego A.",
+    "created_at": "2026-01-28T21:32:54.026795+00:00"
+  },
+  {
+    "text": "App is beautiful and easy to use. 5 stars.",
+    "source": "interview",
+    "rating": "",
+    "user_segment": "new_user",
+    "author": "Riley E.",
+    "created_at": "2026-03-03T01:32:54.026795+00:00"
+  },
+  {
+    "text": "Best meal planning app I've used. Recommended to my whole family.",
+    "source": "app_store",
+    "rating": 5,
+    "user_segment": "power_user",
+    "author": "Noor L.",
+    "created_at": "2026-04-07T15:32:54.026795+00:00"
+  },
+  {
+    "text": "Generated recipe had no measurements for half the ingredients.",
+    "source": "zendesk",
+    "rating": "",
+    "user_segment": "enterprise",
+    "author": "Sam R.",
+    "created_at": "2026-02-18T12:32:54.026795+00:00"
+  },
+  {
+    "text": "Charged twice for the same month \u2014 Really frustrating.",
+    "source": "zendesk",
+    "rating": "",
+    "user_segment": "new_user",
+    "author": "Alex A.",
+    "created_at": "2026-04-27T05:32:54.026795+00:00"
+  },
+  {
+    "text": "Free tier is so limited it's basically useless. Either make it free or be clear it's paid.",
+    "source": "app_store",
+    "rating": 1,
+    "user_segment": "smb",
+    "author": "Sam U.",
+    "created_at": "2026-04-25T21:32:54.026795+00:00"
+  },
+  {
+    "text": "Pro features should include grocery integration at this price.",
+    "source": "zendesk",
+    "rating": "",
+    "user_segment": "power_user",
+    "author": "Yuki V.",
+    "created_at": "2026-02-16T14:32:54.026795+00:00"
+  },
+  {
+    "text": "$15/month for what is essentially a recipe app is too much.",
+    "source": "play_store",
+    "rating": 2,
+    "user_segment": "new_user",
+    "author": "Maya U.",
+    "created_at": "2026-05-12T07:32:54.026795+00:00"
+  },
+  {
+    "text": "Loving the app overall, only wish: dark mode!",
+    "source": "nps",
+    "rating": "",
+    "user_segment": "free_tier",
+    "author": "Jordan D.",
+    "created_at": "2026-04-30T23:32:54.026795+00:00"
+  },
+  {
+    "text": "Why is there no dark theme in 2025?",
+    "source": "interview",
+    "rating": "",
+    "user_segment": "free_tier",
+    "author": "Alex M.",
+    "created_at": "2026-02-11T22:32:54.026795+00:00"
+  },
+  {
+    "text": "The search bar doesn't accept Unicode characters \u2014 can't search for cr\u00e8me br\u00fbl\u00e9e.",
+    "source": "app_store",
+    "rating": 3,
+    "user_segment": "smb",
+    "author": "Sam P.",
+    "created_at": "2026-05-24T12:32:54.026795+00:00"
+  },
+  {
+    "text": "Pro features should include grocery integration at this price.",
+    "source": "play_store",
+    "rating": 3,
+    "user_segment": "free_tier",
+    "author": "Maya V.",
+    "created_at": "2026-05-03T02:32:54.026795+00:00"
+  },
+  {
+    "text": "Lost my shopping list when I switched phones. No way to recover.",
+    "source": "nps",
+    "rating": 2,
+    "user_segment": "new_user",
+    "author": "Maya Q.",
+    "created_at": "2026-04-14T18:32:54.026795+00:00"
+  },
+  {
+    "text": "Skipped most of the onboarding and now the app keeps prompting me to finish it.",
+    "source": "interview",
+    "rating": "",
+    "user_segment": "smb",
+    "author": "Chen A.",
+    "created_at": "2026-03-08T04:32:54.026795+00:00"
+  },
+  {
+    "text": "AI suggestions are great when they work but maybe 30% of the time the ingredients don't make sense.",
+    "source": "play_store",
+    "rating": 3,
+    "user_segment": "enterprise",
+    "author": "Chen J.",
+    "created_at": "2026-04-28T14:32:54.026795+00:00"
+  },
+  {
+    "text": "Love how it adapts to my pantry. Real game changer.",
+    "source": "interview",
+    "rating": "",
+    "user_segment": "power_user",
+    "author": "Sam H.",
+    "created_at": "2026-05-24T09:32:54.026795+00:00"
+  },
+  {
+    "text": "Lost my shopping list when I switched phones. No way to recover.",
+    "source": "interview",
+    "rating": "",
+    "user_segment": "smb",
+    "author": "Noor Q.",
+    "created_at": "2026-02-17T18:32:54.026795+00:00"
+  },
+  {
+    "text": "Saved recipes on iPhone don't sync to my iPad. Contacted support, no reply yet.",
+    "source": "play_store",
+    "rating": 2,
+    "user_segment": "enterprise",
+    "author": "Yuki M.",
+    "created_at": "2026-02-26T18:32:54.026795+00:00"
+  },
+  {
+    "text": "Love the AI recipe feature when it nails it \u2014 but it hallucinates ingredients I don't have.",
+    "source": "zendesk",
+    "rating": "",
+    "user_segment": "free_tier",
+    "author": "Chen M.",
+    "created_at": "2026-04-01T02:32:54.026795+00:00"
+  },
+  {
+    "text": "Why is there no dark theme in 2025?",
+    "source": "zendesk",
+    "rating": "",
+    "user_segment": "new_user",
+    "author": "Jordan L.",
+    "created_at": "2026-04-23T18:32:54.026795+00:00"
+  },
+  {
+    "text": "Charged twice for the same month \u2014",
+    "source": "play_store",
+    "rating": 1,
+    "user_segment": "smb",
+    "author": "Maya Z.",
+    "created_at": "2026-04-28T02:32:54.026795+00:00"
+  },
+  {
+    "text": "Search is way too slow on Android \u2014 takes 5+ seconds.",
+    "source": "interview",
+    "rating": "",
+    "user_segment": "power_user",
+    "author": "Maya H.",
+    "created_at": "2026-04-19T22:32:54.026795+00:00"
+  },
+  {
+    "text": "AI suggestions are great when they work but maybe 30% of the time the ingredients don't make sense.",
+    "source": "app_store",
+    "rating": 3,
+    "user_segment": "new_user",
+    "author": "Diego K.",
+    "created_at": "2026-04-21T00:32:54.026795+00:00"
+  },
+  {
+    "text": "Dark mode would be a huge upgrade.",
+    "source": "nps",
+    "rating": 3,
+    "user_segment": "smb",
+    "author": "Noor Q.",
+    "created_at": "2026-03-13T16:32:54.026795+00:00"
+  },
+  {
+    "text": "Asked for a vegan dinner with chickpeas, got a recipe with chicken. Contacted support, no reply yet.",
+    "source": "nps",
+    "rating": 1,
+    "user_segment": "new_user",
+    "author": "Yuki W.",
+    "created_at": "2026-04-04T10:32:54.026795+00:00"
+  },
+  {
+    "text": "Dark mode would be a huge upgrade.",
+    "source": "play_store",
+    "rating": 4,
+    "user_segment": "new_user",
+    "author": "Diego P.",
+    "created_at": "2026-05-15T18:32:54.026795+00:00"
+  },
+  {
+    "text": "Search is way too slow on Android \u2014 takes 5+ seconds.",
+    "source": "play_store",
+    "rating": 3,
+    "user_segment": "enterprise",
+    "author": "Yuki P.",
+    "created_at": "2026-03-29T11:32:54.026795+00:00"
+  },
+  {
+    "text": "First-time experience felt confusing \u2014 I wasn't sure what the app actually did until step 4.",
+    "source": "app_store",
+    "rating": 3,
+    "user_segment": "power_user",
+    "author": "Maya X.",
+    "created_at": "2026-02-17T19:32:54.026795+00:00"
+  },
+  {
+    "text": "Card was charged but Pro features didn't unlock for 12 hours. Support never replied.",
+    "source": "interview",
+    "rating": "",
+    "user_segment": "new_user",
+    "author": "Riley Q.",
+    "created_at": "2026-05-16T20:32:54.026795+00:00"
+  },
+  {
+    "text": "Loving the app overall, only wish: dark mode!",
+    "source": "zendesk",
+    "rating": "",
+    "user_segment": "enterprise",
+    "author": "Maya Y.",
+    "created_at": "2026-05-21T18:32:54.026795+00:00"
+  },
+  {
+    "text": "The AI recipe suggestions are genuinely brilliant. Saved me so much time this week.",
+    "source": "play_store",
+    "rating": 5,
+    "user_segment": "free_tier",
+    "author": "Jordan P.",
+    "created_at": "2026-02-14T05:32:54.026795+00:00"
+  },
+  {
+    "text": "Card was charged but Pro features didn't unlock for 12 hours. Support never replied.",
+    "source": "zendesk",
+    "rating": "",
+    "user_segment": "new_user",
+    "author": "Alex F.",
+    "created_at": "2026-02-09T21:32:54.026795+00:00"
+  },
+  {
+    "text": "Sync between devices is unreliable \u2014 sometimes works, sometimes silent failure.",
+    "source": "nps",
+    "rating": 3,
+    "user_segment": "enterprise",
+    "author": "Diego T.",
+    "created_at": "2026-02-25T13:32:54.026795+00:00"
+  },
+  {
+    "text": "Asked for a vegan dinner with chickpeas, got a recipe with chicken. Made me cancel.",
+    "source": "app_store",
+    "rating": 2,
+    "user_segment": "free_tier",
+    "author": "Maya A.",
+    "created_at": "2026-02-20T15:32:54.026795+00:00"
+  },
+  {
+    "text": "Charged twice for the same month \u2014 Made me cancel.",
+    "source": "app_store",
+    "rating": 2,
+    "user_segment": "power_user",
+    "author": "Noor S.",
+    "created_at": "2026-03-14T00:32:54.026795+00:00"
+  },
+  {
+    "text": "Why is there no dark theme in 2025?",
+    "source": "play_store",
+    "rating": 3,
+    "user_segment": "new_user",
+    "author": "Noor M.",
+    "created_at": "2026-03-05T10:32:54.026795+00:00"
+  },
+  {
+    "text": "AI suggestions are great when they work but maybe 30% of the time the ingredients don't make sense.",
+    "source": "app_store",
+    "rating": 3,
+    "user_segment": "smb",
+    "author": "Maya X.",
+    "created_at": "2026-04-13T12:32:54.026795+00:00"
+  },
+  {
+    "text": "$15/month for what is essentially a recipe app is too much.",
+    "source": "nps",
+    "rating": 2,
+    "user_segment": "smb",
+    "author": "Diego A.",
+    "created_at": "2026-04-14T22:32:54.026795+00:00"
+  },
+  {
+    "text": "Loving the app overall, only wish: dark mode!",
+    "source": "nps",
+    "rating": 5,
+    "user_segment": "smb",
+    "author": "Alex G.",
+    "created_at": "2026-03-07T10:32:54.026795+00:00"
+  },
+  {
+    "text": "Loved the recipes but the signup flow asks for my address?? Why?",
+    "source": "zendesk",
+    "rating": "",
+    "user_segment": "smb",
+    "author": "Sam A.",
+    "created_at": "2026-03-30T03:32:54.026795+00:00"
+  },
+  {
+    "text": "Free tier is so limited it's basically useless. Either make it free or be clear it's paid.",
+    "source": "play_store",
+    "rating": 2,
+    "user_segment": "free_tier",
+    "author": "Riley C.",
+    "created_at": "2026-03-17T01:32:54.026795+00:00"
+  },
+  {
+    "text": "Took me 25 minutes to get past the dietary preferences screen. Way too many questions.",
+    "source": "app_store",
+    "rating": 2,
+    "user_segment": "enterprise",
+    "author": "Diego Y.",
+    "created_at": "2026-03-23T03:32:54.026795+00:00"
+  },
+  {
+    "text": "Skipped most of the onboarding and now the app keeps prompting me to finish it.",
+    "source": "nps",
+    "rating": 2,
+    "user_segment": "free_tier",
+    "author": "Diego Z.",
+    "created_at": "2026-04-06T19:32:54.026795+00:00"
+  },
+  {
+    "text": "The AI recipe suggestions are genuinely brilliant. Saved me so much time this week.",
+    "source": "zendesk",
+    "rating": "",
+    "user_segment": "enterprise",
+    "author": "Diego J.",
+    "created_at": "2026-02-16T12:32:54.026795+00:00"
+  },
+  {
+    "text": "Love how it adapts to my pantry. Real game changer.",
+    "source": "zendesk",
+    "rating": "",
+    "user_segment": "free_tier",
+    "author": "Noor E.",
+    "created_at": "2026-02-07T07:32:54.026795+00:00"
+  },
+  {
+    "text": "Generated recipe had no measurements for half the ingredients.",
+    "source": "zendesk",
+    "rating": "",
+    "user_segment": "free_tier",
+    "author": "Riley Q.",
+    "created_at": "2026-04-13T08:32:54.026795+00:00"
+  },
+  {
+    "text": "Free tier is so limited it's basically useless. Either make it free or be clear it's paid.",
+    "source": "play_store",
+    "rating": 2,
+    "user_segment": "new_user",
+    "author": "Chen Z.",
+    "created_at": "2026-04-26T12:32:54.026795+00:00"
+  },
+  {
+    "text": "Generated recipe had no measurements for half the ingredients.",
+    "source": "nps",
+    "rating": "",
+    "user_segment": "power_user",
+    "author": "Noor B.",
+    "created_at": "2026-02-13T05:32:54.026795+00:00"
+  },
+  {
+    "text": "Charged twice for the same month \u2014 Contacted support, no reply yet.",
+    "source": "app_store",
+    "rating": 2,
+    "user_segment": "smb",
+    "author": "Alex Z.",
+    "created_at": "2026-05-13T09:32:54.026795+00:00"
+  },
+  {
+    "text": "Card was charged but Pro features didn't unlock for 6 hours. Support never replied.",
+    "source": "nps",
+    "rating": "",
+    "user_segment": "free_tier",
+    "author": "Riley W.",
+    "created_at": "2026-04-22T15:32:54.026795+00:00"
+  },
+  {
+    "text": "Got a 'payment declined' error even though my card works everywhere else.",
+    "source": "interview",
+    "rating": "",
+    "user_segment": "smb",
+    "author": "Diego B.",
+    "created_at": "2026-04-07T15:32:54.026795+00:00"
+  },
+  {
+    "text": "Searching for 'pasta' returns desserts. Something's broken.",
+    "source": "zendesk",
+    "rating": "",
+    "user_segment": "new_user",
+    "author": "Riley D.",
+    "created_at": "2026-04-26T02:32:54.026795+00:00"
+  },
+  {
+    "text": "Saved recipes on iPhone don't sync to my iPad. Happens every time.",
+    "source": "play_store",
+    "rating": 3,
+    "user_segment": "new_user",
+    "author": "Chen B.",
+    "created_at": "2026-04-18T01:32:54.026795+00:00"
+  },
+  {
+    "text": "Onboarding is slow and asks for too much info before I can even try the app.",
+    "source": "nps",
+    "rating": 3,
+    "user_segment": "power_user",
+    "author": "Priya F.",
+    "created_at": "2026-04-03T07:32:54.026795+00:00"
+  },
+  {
+    "text": "The subscribe button just spins forever. Tried on iOS and web, same thing.",
+    "source": "interview",
+    "rating": "",
+    "user_segment": "smb",
+    "author": "Yuki E.",
+    "created_at": "2026-02-27T18:32:54.026795+00:00"
+  },
+  {
+    "text": "Onboarding is slow and asks for too much info before I can even try the app.",
+    "source": "nps",
+    "rating": 1,
+    "user_segment": "enterprise",
+    "author": "Diego F.",
+    "created_at": "2026-01-30T11:32:54.026795+00:00"
+  },
+  {
+    "text": "Got a 'payment declined' error even though my card works everywhere else. Made me cancel.",
+    "source": "zendesk",
+    "rating": "",
+    "user_segment": "enterprise",
+    "author": "Noor K.",
+    "created_at": "2026-03-05T12:32:54.026795+00:00"
+  },
+  {
+    "text": "The subscribe button just spins forever. Tried on iOS and web, same thing.",
+    "source": "nps",
+    "rating": 2,
+    "user_segment": "free_tier",
+    "author": "Maya Y.",
+    "created_at": "2026-03-13T14:32:54.026795+00:00"
+  },
+  {
+    "text": "Skipped most of the onboarding and now the app keeps prompting me to finish it.",
+    "source": "zendesk",
+    "rating": "",
+    "user_segment": "new_user",
+    "author": "Yuki Z.",
+    "created_at": "2026-05-24T07:32:54.026795+00:00"
+  },
+  {
+    "text": "AI suggestions are great when they work but maybe 30% of the time the ingredients don't make sense.",
+    "source": "play_store",
+    "rating": 3,
+    "user_segment": "power_user",
+    "author": "Yuki J.",
+    "created_at": "2026-04-27T05:32:54.026795+00:00"
+  },
+  {
+    "text": "Dark mode would be a huge upgrade.",
+    "source": "app_store",
+    "rating": 3,
+    "user_segment": "new_user",
+    "author": "Yuki M.",
+    "created_at": "2026-04-16T11:32:54.026795+00:00"
+  },
+  {
+    "text": "Saved recipes on iPhone don't sync to my iPad. Contacted support, no reply yet.",
+    "source": "zendesk",
+    "rating": "",
+    "user_segment": "power_user",
+    "author": "Jordan E.",
+    "created_at": "2026-02-19T12:32:54.026795+00:00"
+  },
+  {
+    "text": "Sync between devices is unreliable \u2014 sometimes works, sometimes silent failure.",
+    "source": "interview",
+    "rating": "",
+    "user_segment": "power_user",
+    "author": "Maya R.",
+    "created_at": "2026-03-22T17:32:54.026795+00:00"
+  },
+  {
+    "text": "Pricing went up without warning \u2014 felt sneaky.",
+    "source": "zendesk",
+    "rating": "",
+    "user_segment": "smb",
+    "author": "Sam E.",
+    "created_at": "2026-02-12T22:32:54.026795+00:00"
+  },
+  {
+    "text": "Meal plan I built on the web is missing from the mobile app.",
+    "source": "nps",
+    "rating": "",
+    "user_segment": "enterprise",
+    "author": "Sam N.",
+    "created_at": "2026-02-12T08:32:54.026795+00:00"
+  },
+  {
+    "text": "Charged twice for the same month \u2014 Really frustrating.",
+    "source": "nps",
+    "rating": 2,
+    "user_segment": "enterprise",
+    "author": "Sam X.",
+    "created_at": "2026-03-12T13:32:54.026795+00:00"
+  },
+  {
+    "text": "Took me 20 minutes to get past the dietary preferences screen. Way too many questions.",
+    "source": "interview",
+    "rating": "",
+    "user_segment": "new_user",
+    "author": "Noor Y.",
+    "created_at": "2026-04-27T05:32:54.026795+00:00"
+  },
+  {
+    "text": "Skipped most of the onboarding and now the app keeps prompting me to finish it.",
+    "source": "app_store",
+    "rating": 2,
+    "user_segment": "enterprise",
+    "author": "Noor D.",
+    "created_at": "2026-05-21T00:32:54.026795+00:00"
+  },
+  {
+    "text": "Charged twice for the same month \u2014 Please fix.",
+    "source": "nps",
+    "rating": 2,
+    "user_segment": "power_user",
+    "author": "Riley W.",
+    "created_at": "2026-03-11T02:32:54.026795+00:00"
+  },
+  {
+    "text": "The subscribe button just spins forever. Tried on iOS and web, same thing.",
+    "source": "interview",
+    "rating": "",
+    "user_segment": "new_user",
+    "author": "Chen G.",
+    "created_at": "2026-04-03T17:32:54.026795+00:00"
+  },
+  {
+    "text": "Recipe generator keeps suggesting the same 3 meals over and over.",
+    "source": "zendesk",
+    "rating": "",
+    "user_segment": "enterprise",
+    "author": "Diego W.",
+    "created_at": "2026-05-13T04:32:54.026795+00:00"
+  },
+  {
+    "text": "Generated recipe had no measurements for half the ingredients.",
+    "source": "zendesk",
+    "rating": "",
+    "user_segment": "smb",
+    "author": "Sam X.",
+    "created_at": "2026-05-01T22:32:54.026795+00:00"
+  },
+  {
+    "text": "First-time experience felt confusing \u2014 I wasn't sure what the app actually did until step 4.",
+    "source": "app_store",
+    "rating": 3,
+    "user_segment": "power_user",
+    "author": "Priya U.",
+    "created_at": "2026-02-14T15:32:54.026795+00:00"
+  },
+  {
+    "text": "First-time experience felt confusing \u2014 I wasn't sure what the app actually did until step 4.",
+    "source": "play_store",
+    "rating": 3,
+    "user_segment": "enterprise",
+    "author": "Priya V.",
+    "created_at": "2026-02-10T18:32:54.026795+00:00"
+  },
+  {
+    "text": "Card was charged but Pro features didn't unlock for 12 hours. Support never replied.",
+    "source": "interview",
+    "rating": "",
+    "user_segment": "new_user",
+    "author": "Alex E.",
+    "created_at": "2026-04-23T20:32:54.026795+00:00"
+  },
+  {
+    "text": "Card was charged but Pro features didn't unlock for 24 hours. Support never replied.",
+    "source": "app_store",
+    "rating": 1,
+    "user_segment": "power_user",
+    "author": "Riley S.",
+    "created_at": "2026-04-23T00:32:54.026795+00:00"
+  },
+  {
+    "text": "Tried to subscribe to Pro but the payment wouldn't go through. Happens every time.",
+    "source": "zendesk",
+    "rating": "",
+    "user_segment": "new_user",
+    "author": "Noor S.",
+    "created_at": "2026-03-21T07:32:54.026795+00:00"
+  },
+  {
+    "text": "First-time experience felt confusing \u2014 I wasn't sure what the app actually did until step 4.",
+    "source": "app_store",
+    "rating": 3,
+    "user_segment": "new_user",
+    "author": "Alex R.",
+    "created_at": "2026-03-28T05:32:54.026795+00:00"
+  },
+  {
+    "text": "The new weekly meal plan feature is fantastic.",
+    "source": "app_store",
+    "rating": 5,
+    "user_segment": "new_user",
+    "author": "Sam L.",
+    "created_at": "2026-02-23T11:32:54.026795+00:00"
+  },
+  {
+    "text": "Search doesn't find recipes I've literally saved. Please fix.",
+    "source": "zendesk",
+    "rating": "",
+    "user_segment": "free_tier",
+    "author": "Diego Y.",
+    "created_at": "2026-03-07T05:32:54.026795+00:00"
+  },
+  {
+    "text": "Love the AI recipe feature when it nails it \u2014 but it hallucinates ingredients I don't have.",
+    "source": "interview",
+    "rating": "",
+    "user_segment": "free_tier",
+    "author": "Yuki P.",
+    "created_at": "2026-04-18T11:32:54.026795+00:00"
+  },
+  {
+    "text": "Tried to subscribe to Pro but the payment timed out. Happens every time.",
+    "source": "nps",
+    "rating": "",
+    "user_segment": "smb",
+    "author": "Riley P.",
+    "created_at": "2026-04-03T15:32:54.026795+00:00"
+  },
+  {
+    "text": "Sync between devices is unreliable \u2014 sometimes works, sometimes silent failure.",
+    "source": "nps",
+    "rating": 3,
+    "user_segment": "smb",
+    "author": "Sam C.",
+    "created_at": "2026-04-08T21:32:54.026795+00:00"
+  },
+  {
+    "text": "The AI recipe suggestions are genuinely brilliant. Saved me so much time this week.",
+    "source": "nps",
+    "rating": 5,
+    "user_segment": "free_tier",
+    "author": "Alex U.",
+    "created_at": "2026-02-11T21:32:54.026795+00:00"
+  },
+  {
+    "text": "Pricing went up without warning \u2014 felt sneaky.",
+    "source": "app_store",
+    "rating": 2,
+    "user_segment": "smb",
+    "author": "Alex K.",
+    "created_at": "2026-04-10T04:32:54.026795+00:00"
+  },
+  {
+    "text": "The search bar doesn't accept Unicode characters \u2014 can't search for cr\u00e8me br\u00fbl\u00e9e.",
+    "source": "app_store",
+    "rating": 2,
+    "user_segment": "smb",
+    "author": "Jordan D.",
+    "created_at": "2026-05-06T04:32:54.026795+00:00"
+  },
+  {
+    "text": "Love the AI recipe feature when it nails it \u2014 but it hallucinates ingredients I don't have.",
+    "source": "zendesk",
+    "rating": "",
+    "user_segment": "free_tier",
+    "author": "Jordan P.",
+    "created_at": "2026-05-11T17:32:54.026795+00:00"
+  },
+  {
+    "text": "App is beautiful and easy to use. 5 stars.",
+    "source": "interview",
+    "rating": "",
+    "user_segment": "free_tier",
+    "author": "Alex V.",
+    "created_at": "2026-02-28T05:32:54.026795+00:00"
+  },
+  {
+    "text": "Love how it adapts to my pantry. Real game changer.",
+    "source": "app_store",
+    "rating": 5,
+    "user_segment": "enterprise",
+    "author": "Chen M.",
+    "created_at": "2026-04-21T03:32:54.026795+00:00"
+  },
+  {
+    "text": "Card was charged but Pro features didn't unlock for 48 hours. Support never replied.",
+    "source": "app_store",
+    "rating": 1,
+    "user_segment": "new_user",
+    "author": "Sam Z.",
+    "created_at": "2026-02-20T05:32:54.026795+00:00"
+  },
+  {
+    "text": "Filters in search don't actually filter. Vegan + under 30min still shows steak.",
+    "source": "nps",
+    "rating": 1,
+    "user_segment": "enterprise",
+    "author": "Yuki V.",
+    "created_at": "2026-04-08T16:32:54.026795+00:00"
+  },
+  {
+    "text": "Tried to subscribe to Pro but the payment timed out. Please fix.",
+    "source": "interview",
+    "rating": "",
+    "user_segment": "new_user",
+    "author": "Maya Q.",
+    "created_at": "2026-05-19T04:32:54.026795+00:00"
+  },
+  {
+    "text": "Loving the app overall, only wish: dark mode!",
+    "source": "interview",
+    "rating": "",
+    "user_segment": "enterprise",
+    "author": "Jordan S.",
+    "created_at": "2026-03-30T12:32:54.026795+00:00"
+  },
+  {
+    "text": "The subscribe button just spins forever. Tried on iOS and web, same thing.",
+    "source": "app_store",
+    "rating": 2,
+    "user_segment": "free_tier",
+    "author": "Noor S.",
+    "created_at": "2026-02-28T04:32:54.026795+00:00"
+  },
+  {
+    "text": "Please add dark mode, my eyes hurt at night cooking.",
+    "source": "play_store",
+    "rating": 4,
+    "user_segment": "new_user",
+    "author": "Jordan K.",
+    "created_at": "2026-03-11T00:32:54.026795+00:00"
+  },
+  {
+    "text": "Free tier is so limited it's basically useless. Either make it free or be clear it's paid.",
+    "source": "zendesk",
+    "rating": "",
+    "user_segment": "new_user",
+    "author": "Alex R.",
+    "created_at": "2026-04-18T15:32:54.026795+00:00"
+  },
+  {
+    "text": "Meal plan I built on the web is missing from the mobile app.",
+    "source": "play_store",
+    "rating": 2,
+    "user_segment": "power_user",
+    "author": "Diego T.",
+    "created_at": "2026-03-18T03:32:54.026795+00:00"
+  },
+  {
+    "text": "Love how it adapts to my pantry. Real game changer.",
+    "source": "app_store",
+    "rating": 5,
+    "user_segment": "new_user",
+    "author": "Riley A.",
+    "created_at": "2026-02-04T02:32:54.026795+00:00"
+  },
+  {
+    "text": "Asked for a vegan dinner with chickpeas, got a recipe with chicken. Contacted support, no reply yet.",
+    "source": "interview",
+    "rating": "",
+    "user_segment": "smb",
+    "author": "Riley K.",
+    "created_at": "2026-04-01T07:32:54.026795+00:00"
+  },
+  {
+    "text": "Tried to subscribe to Pro but the payment returned an error. Please fix.",
+    "source": "interview",
+    "rating": "",
+    "user_segment": "enterprise",
+    "author": "Sam P.",
+    "created_at": "2026-03-28T03:32:54.026795+00:00"
+  },
+  {
+    "text": "Best meal planning app I've used. Recommended to my whole family.",
+    "source": "nps",
+    "rating": "",
+    "user_segment": "smb",
+    "author": "Maya Z.",
+    "created_at": "2026-03-19T23:32:54.026795+00:00"
+  },
+  {
+    "text": "AI suggestions are great when they work but maybe 30% of the time the ingredients don't make sense.",
+    "source": "play_store",
+    "rating": 3,
+    "user_segment": "new_user",
+    "author": "Diego S.",
+    "created_at": "2026-03-21T05:32:54.026795+00:00"
+  },
+  {
+    "text": "Got a 'payment declined' error even though my card works everywhere else. Contacted support, no reply yet.",
+    "source": "play_store",
+    "rating": 1,
+    "user_segment": "enterprise",
+    "author": "Jordan F.",
+    "created_at": "2026-05-12T21:32:54.026795+00:00"
+  },
+  {
+    "text": "Search doesn't find recipes I've literally saved. Please fix.",
+    "source": "nps",
+    "rating": 3,
+    "user_segment": "smb",
+    "author": "Yuki W.",
+    "created_at": "2026-02-17T07:32:54.026795+00:00"
+  },
+  {
+    "text": "Search is way too slow on Android \u2014 takes 5+ seconds.",
+    "source": "zendesk",
+    "rating": "",
+    "user_segment": "enterprise",
+    "author": "Priya Q.",
+    "created_at": "2026-02-04T05:32:54.026795+00:00"
+  },
+  {
+    "text": "The subscribe button just spins forever. Tried on iOS and web, same thing.",
+    "source": "zendesk",
+    "rating": "",
+    "user_segment": "free_tier",
+    "author": "Alex M.",
+    "created_at": "2026-02-13T17:32:54.026795+00:00"
+  },
+  {
+    "text": "The search bar doesn't accept Unicode characters \u2014 can't search for cr\u00e8me br\u00fbl\u00e9e.",
+    "source": "nps",
+    "rating": 2,
+    "user_segment": "new_user",
+    "author": "Sam V.",
+    "created_at": "2026-04-08T16:32:54.026795+00:00"
+  },
+  {
+    "text": "Filters in search don't actually filter. Vegan + under 30min still shows steak.",
+    "source": "nps",
+    "rating": "",
+    "user_segment": "new_user",
+    "author": "Noor U.",
+    "created_at": "2026-02-13T02:32:54.026795+00:00"
+  },
+  {
+    "text": "Why is there no dark theme in 2025?",
+    "source": "interview",
+    "rating": "",
+    "user_segment": "power_user",
+    "author": "Alex Q.",
+    "created_at": "2026-03-26T09:32:54.026795+00:00"
+  },
+  {
+    "text": "Got a 'payment declined' error even though my card works everywhere else.",
+    "source": "app_store",
+    "rating": 1,
+    "user_segment": "smb",
+    "author": "Noor S.",
+    "created_at": "2026-05-20T18:32:54.026795+00:00"
+  },
+  {
+    "text": "Searching for 'pasta' returns desserts. Something's broken.",
+    "source": "zendesk",
+    "rating": "",
+    "user_segment": "smb",
+    "author": "Riley L.",
+    "created_at": "2026-04-08T16:32:54.026795+00:00"
+  },
+  {
+    "text": "Please add dark mode, my eyes hurt at night cooking.",
+    "source": "zendesk",
+    "rating": "",
+    "user_segment": "new_user",
+    "author": "Diego X.",
+    "created_at": "2026-05-17T15:32:54.026795+00:00"
+  },
+  {
+    "text": "AI suggestions are great when they work but maybe 30% of the time the ingredients don't make sense.",
+    "source": "interview",
+    "rating": "",
+    "user_segment": "enterprise",
+    "author": "Sam U.",
+    "created_at": "2026-02-03T21:32:54.026795+00:00"
+  },
+  {
+    "text": "Why is there no dark theme in 2025?",
+    "source": "zendesk",
+    "rating": "",
+    "user_segment": "smb",
+    "author": "Priya V.",
+    "created_at": "2026-03-03T03:32:54.026795+00:00"
+  },
+  {
+    "text": "Please add dark mode, my eyes hurt at night cooking.",
+    "source": "zendesk",
+    "rating": "",
+    "user_segment": "enterprise",
+    "author": "Priya X.",
+    "created_at": "2026-03-15T13:32:54.026795+00:00"
+  },
+  {
+    "text": "Please add dark mode, my eyes hurt at night cooking.",
+    "source": "nps",
+    "rating": "",
+    "user_segment": "enterprise",
+    "author": "Priya G.",
+    "created_at": "2026-05-23T14:32:54.026795+00:00"
+  },
+  {
+    "text": "Generated recipe had no measurements for half the ingredients.",
+    "source": "play_store",
+    "rating": 1,
+    "user_segment": "new_user",
+    "author": "Maya D.",
+    "created_at": "2026-05-08T21:32:54.026795+00:00"
+  },
+  {
+    "text": "Search is way too slow on Android \u2014 takes 5+ seconds.",
+    "source": "interview",
+    "rating": "",
+    "user_segment": "enterprise",
+    "author": "Yuki E.",
+    "created_at": "2026-05-21T04:32:54.026795+00:00"
+  },
+  {
+    "text": "Searching for 'pasta' returns desserts. Something's broken.",
+    "source": "play_store",
+    "rating": 1,
+    "user_segment": "free_tier",
+    "author": "Priya Z.",
+    "created_at": "2026-02-08T03:32:54.026795+00:00"
+  },
+  {
+    "text": "Generated recipe had no measurements for half the ingredients.",
+    "source": "zendesk",
+    "rating": "",
+    "user_segment": "power_user",
+    "author": "Noor V.",
+    "created_at": "2026-02-28T02:32:54.026795+00:00"
+  },
+  {
+    "text": "Skipped most of the onboarding and now the app keeps prompting me to finish it.",
+    "source": "play_store",
+    "rating": 2,
+    "user_segment": "power_user",
+    "author": "Chen X.",
+    "created_at": "2026-04-16T10:32:54.026795+00:00"
+  },
+  {
+    "text": "Pro features should include grocery integration at this price.",
+    "source": "nps",
+    "rating": "",
+    "user_segment": "free_tier",
+    "author": "Diego P.",
+    "created_at": "2026-02-15T13:32:54.026795+00:00"
+  },
+  {
+    "text": "Free tier is so limited it's basically useless. Either make it free or be clear it's paid.",
+    "source": "interview",
+    "rating": "",
+    "user_segment": "new_user",
+    "author": "Noor M.",
+    "created_at": "2026-05-08T17:32:54.026795+00:00"
+  },
+  {
+    "text": "Search doesn't find recipes I've literally saved.",
+    "source": "interview",
+    "rating": "",
+    "user_segment": "enterprise",
+    "author": "Sam F.",
+    "created_at": "2026-02-06T22:32:54.026795+00:00"
+  },
+  {
+    "text": "First-time experience felt confusing \u2014 I wasn't sure what the app actually did until step 4.",
+    "source": "play_store",
+    "rating": 3,
+    "user_segment": "smb",
+    "author": "Chen A.",
+    "created_at": "2026-05-14T18:32:54.026795+00:00"
+  },
+  {
+    "text": "Generated recipe had no measurements for half the ingredients.",
+    "source": "interview",
+    "rating": "",
+    "user_segment": "smb",
+    "author": "Sam M.",
+    "created_at": "2026-04-08T18:32:54.026795+00:00"
+  },
+  {
+    "text": "Onboarding is slow and asks for too much info before I can even try the app.",
+    "source": "app_store",
+    "rating": 3,
+    "user_segment": "power_user",
+    "author": "Priya B.",
+    "created_at": "2026-03-03T15:32:54.026795+00:00"
+  },
+  {
+    "text": "Skipped most of the onboarding and now the app keeps prompting me to finish it.",
+    "source": "play_store",
+    "rating": 3,
+    "user_segment": "new_user",
+    "author": "Sam A.",
+    "created_at": "2026-03-29T06:32:54.026795+00:00"
+  },
+  {
+    "text": "Loved the recipes but the signup flow asks for my address?? Why?",
+    "source": "interview",
+    "rating": "",
+    "user_segment": "free_tier",
+    "author": "Diego P.",
+    "created_at": "2026-01-25T02:32:54.026795+00:00"
+  },
+  {
+    "text": "Got a 'payment declined' error even though my card works everywhere else. Please fix.",
+    "source": "zendesk",
+    "rating": "",
+    "user_segment": "power_user",
+    "author": "Riley W.",
+    "created_at": "2026-05-11T00:32:54.026795+00:00"
+  },
+  {
+    "text": "Lost my shopping list when I switched phones. No way to recover.",
+    "source": "app_store",
+    "rating": 1,
+    "user_segment": "free_tier",
+    "author": "Diego A.",
+    "created_at": "2026-02-07T10:32:54.026795+00:00"
+  },
+  {
+    "text": "Search is way too slow on Android \u2014 takes 5+ seconds.",
+    "source": "play_store",
+    "rating": 2,
+    "user_segment": "new_user",
+    "author": "Yuki M.",
+    "created_at": "2026-04-18T12:32:54.026795+00:00"
+  },
+  {
+    "text": "Skipped most of the onboarding and now the app keeps prompting me to finish it.",
+    "source": "play_store",
+    "rating": 2,
+    "user_segment": "new_user",
+    "author": "Diego T.",
+    "created_at": "2026-03-19T14:32:54.026795+00:00"
+  },
+  {
+    "text": "Search is way too slow on Android \u2014 takes 5+ seconds.",
+    "source": "interview",
+    "rating": "",
+    "user_segment": "smb",
+    "author": "Alex W.",
+    "created_at": "2026-05-23T13:32:54.026795+00:00"
+  },
+  {
+    "text": "AI suggestions are great when they work but maybe 30% of the time the ingredients don't make sense.",
+    "source": "zendesk",
+    "rating": "",
+    "user_segment": "enterprise",
+    "author": "Sam M.",
+    "created_at": "2026-02-20T01:32:54.026795+00:00"
+  },
+  {
+    "text": "Took me 20 minutes to get past the dietary preferences screen. Way too many questions.",
+    "source": "play_store",
+    "rating": 2,
+    "user_segment": "enterprise",
+    "author": "Priya X.",
+    "created_at": "2026-04-10T08:32:54.026795+00:00"
+  },
+  {
+    "text": "Generated recipe had no measurements for half the ingredients.",
+    "source": "play_store",
+    "rating": 1,
+    "user_segment": "smb",
+    "author": "Alex K.",
+    "created_at": "2026-05-17T03:32:54.026795+00:00"
+  },
+  {
+    "text": "Loved the recipes but the signup flow asks for my address?? Why?",
+    "source": "app_store",
+    "rating": 3,
+    "user_segment": "free_tier",
+    "author": "Riley T.",
+    "created_at": "2026-01-26T16:32:54.026795+00:00"
+  },
+  {
+    "text": "Asked for a vegan dinner with chickpeas, got a recipe with chicken.",
+    "source": "play_store",
+    "rating": 2,
+    "user_segment": "enterprise",
+    "author": "Maya D.",
+    "created_at": "2026-04-11T00:32:54.026795+00:00"
+  },
+  {
+    "text": "Lost my shopping list when I switched phones. No way to recover.",
+    "source": "nps",
+    "rating": "",
+    "user_segment": "enterprise",
+    "author": "Priya R.",
+    "created_at": "2026-01-31T13:32:54.026795+00:00"
+  },
+  {
+    "text": "Why is there no dark theme in 2025?",
+    "source": "interview",
+    "rating": "",
+    "user_segment": "smb",
+    "author": "Sam P.",
+    "created_at": "2026-04-21T23:32:54.026795+00:00"
+  },
+  {
+    "text": "Searching for 'pasta' returns desserts. Something's broken.",
+    "source": "interview",
+    "rating": "",
+    "user_segment": "new_user",
+    "author": "Sam L.",
+    "created_at": "2026-04-18T15:32:54.026795+00:00"
+  },
+  {
+    "text": "Why is there no dark theme in 2025?",
+    "source": "nps",
+    "rating": "",
+    "user_segment": "smb",
+    "author": "Chen Q.",
+    "created_at": "2026-04-01T20:32:54.026795+00:00"
+  },
+  {
+    "text": "Got a 'payment declined' error even though my card works everywhere else. Made me cancel.",
+    "source": "nps",
+    "rating": 1,
+    "user_segment": "smb",
+    "author": "Chen S.",
+    "created_at": "2026-05-16T04:32:54.026795+00:00"
+  },
+  {
+    "text": "Meal plan I built on the web is missing from the mobile app.",
+    "source": "app_store",
+    "rating": 1,
+    "user_segment": "smb",
+    "author": "Alex E.",
+    "created_at": "2026-02-06T06:32:54.026795+00:00"
+  },
+  {
+    "text": "Got a 'payment declined' error even though my card works everywhere else. Contacted support, no reply yet.",
+    "source": "nps",
+    "rating": "",
+    "user_segment": "power_user",
+    "author": "Noor M.",
+    "created_at": "2026-05-21T06:32:54.026795+00:00"
+  },
+  {
+    "text": "Asked for a vegan dinner with chickpeas, got a recipe with chicken. Made me cancel.",
+    "source": "play_store",
+    "rating": 3,
+    "user_segment": "enterprise",
+    "author": "Maya H.",
+    "created_at": "2026-04-09T13:32:54.026795+00:00"
+  },
+  {
+    "text": "$15/month for what is essentially a recipe app is too much.",
+    "source": "play_store",
+    "rating": 2,
+    "user_segment": "free_tier",
+    "author": "Sam J.",
+    "created_at": "2026-03-20T13:32:54.026795+00:00"
+  },
+  {
+    "text": "Lost my shopping list when I switched phones. No way to recover.",
+    "source": "play_store",
+    "rating": 2,
+    "user_segment": "power_user",
+    "author": "Sam E.",
+    "created_at": "2026-02-26T10:32:54.026795+00:00"
+  },
+  {
+    "text": "The new weekly meal plan feature is fantastic.",
+    "source": "play_store",
+    "rating": 5,
+    "user_segment": "enterprise",
+    "author": "Chen Y.",
+    "created_at": "2026-05-14T04:32:54.026795+00:00"
+  },
+  {
+    "text": "Charged twice for the same month \u2014 Contacted support, no reply yet.",
+    "source": "zendesk",
+    "rating": "",
+    "user_segment": "power_user",
+    "author": "Chen S.",
+    "created_at": "2026-02-06T20:32:54.026795+00:00"
+  },
+  {
+    "text": "Loved the recipes but the signup flow asks for my address?? Why?",
+    "source": "play_store",
+    "rating": 2,
+    "user_segment": "new_user",
+    "author": "Chen T.",
+    "created_at": "2026-02-13T10:32:54.026795+00:00"
+  },
+  {
+    "text": "Filters in search don't actually filter. Vegan + under 30min still shows steak.",
+    "source": "interview",
+    "rating": "",
+    "user_segment": "new_user",
+    "author": "Sam K.",
+    "created_at": "2026-05-09T06:32:54.026795+00:00"
+  },
+  {
+    "text": "Generated recipe had no measurements for half the ingredients.",
+    "source": "interview",
+    "rating": "",
+    "user_segment": "free_tier",
+    "author": "Sam E.",
+    "created_at": "2026-04-03T12:32:54.026795+00:00"
+  },
+  {
+    "text": "$15/month for what is essentially a recipe app is too much.",
+    "source": "nps",
+    "rating": 2,
+    "user_segment": "free_tier",
+    "author": "Priya E.",
+    "created_at": "2026-05-09T08:32:54.026795+00:00"
+  },
+  {
+    "text": "Asked for a vegan dinner with chickpeas, got a recipe with chicken. Really frustrating.",
+    "source": "interview",
+    "rating": "",
+    "user_segment": "power_user",
+    "author": "Priya L.",
+    "created_at": "2026-05-06T16:32:54.026795+00:00"
+  },
+  {
+    "text": "Free tier is so limited it's basically useless. Either make it free or be clear it's paid.",
+    "source": "zendesk",
+    "rating": "",
+    "user_segment": "enterprise",
+    "author": "Sam J.",
+    "created_at": "2026-01-25T09:32:54.026795+00:00"
+  },
+  {
+    "text": "Charged twice for the same month \u2014 Contacted support, no reply yet.",
+    "source": "play_store",
+    "rating": 2,
+    "user_segment": "new_user",
+    "author": "Diego W.",
+    "created_at": "2026-03-08T08:32:54.026795+00:00"
+  },
+  {
+    "text": "Charged twice for the same month \u2014 Please fix.",
+    "source": "play_store",
+    "rating": 2,
+    "user_segment": "new_user",
+    "author": "Alex C.",
+    "created_at": "2026-02-07T07:32:54.026795+00:00"
+  },
+  {
+    "text": "Charged twice for the same month \u2014 Contacted support, no reply yet.",
+    "source": "play_store",
+    "rating": 2,
+    "user_segment": "new_user",
+    "author": "Noor W.",
+    "created_at": "2026-03-07T05:32:54.026795+00:00"
+  },
+  {
+    "text": "The search bar doesn't accept Unicode characters \u2014 can't search for cr\u00e8me br\u00fbl\u00e9e.",
+    "source": "nps",
+    "rating": 3,
+    "user_segment": "new_user",
+    "author": "Alex F.",
+    "created_at": "2026-04-17T11:32:54.026795+00:00"
+  },
+  {
+    "text": "Generated recipe had no measurements for half the ingredients.",
+    "source": "nps",
+    "rating": 3,
+    "user_segment": "enterprise",
+    "author": "Chen N.",
+    "created_at": "2026-05-07T15:32:54.026795+00:00"
+  },
+  {
+    "text": "Got a 'payment declined' error even though my card works everywhere else. Made me cancel.",
+    "source": "interview",
+    "rating": "",
+    "user_segment": "power_user",
+    "author": "Noor D.",
+    "created_at": "2026-05-12T15:32:54.026795+00:00"
+  },
+  {
+    "text": "Loved the recipes but the signup flow asks for my address?? Why?",
+    "source": "play_store",
+    "rating": 2,
+    "user_segment": "smb",
+    "author": "Yuki P.",
+    "created_at": "2026-05-19T16:32:54.026795+00:00"
+  },
+  {
+    "text": "Loved the recipes but the signup flow asks for my address?? Why?",
+    "source": "zendesk",
+    "rating": "",
+    "user_segment": "enterprise",
+    "author": "Jordan F.",
+    "created_at": "2026-01-26T07:32:54.026795+00:00"
+  },
+  {
+    "text": "Love the AI recipe feature when it nails it \u2014 but it hallucinates ingredients I don't have.",
+    "source": "nps",
+    "rating": 4,
+    "user_segment": "new_user",
+    "author": "Riley S.",
+    "created_at": "2026-03-24T01:32:54.026795+00:00"
+  },
+  {
+    "text": "Recipe generator keeps suggesting the same 3 meals over and over.",
+    "source": "play_store",
+    "rating": 3,
+    "user_segment": "enterprise",
+    "author": "Noor V.",
+    "created_at": "2026-05-20T00:32:54.026795+00:00"
+  },
+  {
+    "text": "The new weekly meal plan feature is fantastic.",
+    "source": "zendesk",
+    "rating": "",
+    "user_segment": "new_user",
+    "author": "Riley E.",
+    "created_at": "2026-03-19T01:32:54.026795+00:00"
+  },
+  {
+    "text": "Love how it adapts to my pantry. Real game changer.",
+    "source": "nps",
+    "rating": 5,
+    "user_segment": "free_tier",
+    "author": "Jordan M.",
+    "created_at": "2026-05-19T07:32:54.026795+00:00"
+  },
+  {
+    "text": "Search doesn't find recipes I've literally saved. Happens every time.",
+    "source": "interview",
+    "rating": "",
+    "user_segment": "enterprise",
+    "author": "Yuki X.",
+    "created_at": "2026-03-29T08:32:54.026795+00:00"
+  },
+  {
+    "text": "Searching for 'pasta' returns desserts. Something's broken.",
+    "source": "app_store",
+    "rating": 2,
+    "user_segment": "free_tier",
+    "author": "Chen E.",
+    "created_at": "2026-04-08T15:32:54.026795+00:00"
+  },
+  {
+    "text": "Charged twice for the same month \u2014 Happens every time.",
+    "source": "interview",
+    "rating": "",
+    "user_segment": "new_user",
+    "author": "Priya Y.",
+    "created_at": "2026-05-21T00:32:54.026795+00:00"
+  },
+  {
+    "text": "Generated recipe had no measurements for half the ingredients.",
+    "source": "interview",
+    "rating": "",
+    "user_segment": "free_tier",
+    "author": "Diego E.",
+    "created_at": "2026-03-28T21:32:54.026795+00:00"
+  },
+  {
+    "text": "Love the AI recipe feature when it nails it \u2014 but it hallucinates ingredients I don't have.",
+    "source": "zendesk",
+    "rating": "",
+    "user_segment": "free_tier",
+    "author": "Maya U.",
+    "created_at": "2026-05-05T13:32:54.026795+00:00"
+  },
+  {
+    "text": "Love the AI recipe feature when it nails it \u2014 but it hallucinates ingredients I don't have.",
+    "source": "interview",
+    "rating": "",
+    "user_segment": "free_tier",
+    "author": "Maya R.",
+    "created_at": "2026-03-24T03:32:54.026795+00:00"
+  },
+  {
+    "text": "Love how it adapts to my pantry. Real game changer.",
+    "source": "zendesk",
+    "rating": "",
+    "user_segment": "smb",
+    "author": "Yuki K.",
+    "created_at": "2026-02-28T22:32:54.026795+00:00"
+  },
+  {
+    "text": "Saved recipes on iPhone don't sync to my iPad. Made me cancel.",
+    "source": "nps",
+    "rating": 3,
+    "user_segment": "free_tier",
+    "author": "Jordan Z.",
+    "created_at": "2026-02-14T07:32:54.026795+00:00"
+  },
+  {
+    "text": "The subscribe button just spins forever. Tried on iOS and web, same thing.",
+    "source": "play_store",
+    "rating": 3,
+    "user_segment": "free_tier",
+    "author": "Riley E.",
+    "created_at": "2026-03-06T02:32:54.026795+00:00"
+  },
+  {
+    "text": "Best meal planning app I've used. Recommended to my whole family.",
+    "source": "app_store",
+    "rating": 4,
+    "user_segment": "smb",
+    "author": "Chen P.",
+    "created_at": "2026-05-02T01:32:54.026795+00:00"
+  },
+  {
+    "text": "Card was charged but Pro features didn't unlock for 48 hours. Support never replied.",
+    "source": "interview",
+    "rating": "",
+    "user_segment": "smb",
+    "author": "Alex Y.",
+    "created_at": "2026-02-15T06:32:54.026795+00:00"
+  },
+  {
+    "text": "Card was charged but Pro features didn't unlock for 24 hours. Support never replied.",
+    "source": "nps",
+    "rating": "",
+    "user_segment": "smb",
+    "author": "Diego L.",
+    "created_at": "2026-04-15T20:32:54.026795+00:00"
+  },
+  {
+    "text": "The search bar doesn't accept Unicode characters \u2014 can't search for cr\u00e8me br\u00fbl\u00e9e.",
+    "source": "interview",
+    "rating": "",
+    "user_segment": "power_user",
+    "author": "Maya T.",
+    "created_at": "2026-03-25T19:32:54.026795+00:00"
+  },
+  {
+    "text": "Onboarding is slow and asks for too much info before I can even try the app.",
+    "source": "zendesk",
+    "rating": "",
+    "user_segment": "smb",
+    "author": "Chen R.",
+    "created_at": "2026-02-24T19:32:54.026795+00:00"
+  },
+  {
+    "text": "AI suggestions are great when they work but maybe 30% of the time the ingredients don't make sense.",
+    "source": "zendesk",
+    "rating": "",
+    "user_segment": "free_tier",
+    "author": "Riley N.",
+    "created_at": "2026-05-10T07:32:54.026795+00:00"
+  },
+  {
+    "text": "Best meal planning app I've used. Recommended to my whole family.",
+    "source": "zendesk",
+    "rating": "",
+    "user_segment": "new_user",
+    "author": "Chen Q.",
+    "created_at": "2026-05-20T16:32:54.026795+00:00"
+  },
+  {
+    "text": "Loving the app overall, only wish: dark mode!",
+    "source": "play_store",
+    "rating": 4,
+    "user_segment": "enterprise",
+    "author": "Diego Y.",
+    "created_at": "2026-02-09T08:32:54.026795+00:00"
+  },
+  {
+    "text": "Took me 15 minutes to get past the dietary preferences screen. Way too many questions.",
+    "source": "play_store",
+    "rating": 2,
+    "user_segment": "power_user",
+    "author": "Jordan B.",
+    "created_at": "2026-03-01T09:32:54.026795+00:00"
+  },
+  {
+    "text": "Got a 'payment declined' error even though my card works everywhere else.",
+    "source": "nps",
+    "rating": 1,
+    "user_segment": "power_user",
+    "author": "Riley W.",
+    "created_at": "2026-05-25T08:32:54.026795+00:00"
+  },
+  {
+    "text": "Pro features should include grocery integration at this price.",
+    "source": "nps",
+    "rating": "",
+    "user_segment": "enterprise",
+    "author": "Maya W.",
+    "created_at": "2026-02-18T16:32:54.026795+00:00"
+  },
+  {
+    "text": "Tried to subscribe to Pro but the payment timed out. Made me cancel.",
+    "source": "app_store",
+    "rating": 1,
+    "user_segment": "new_user",
+    "author": "Riley R.",
+    "created_at": "2026-04-02T20:32:54.026795+00:00"
+  },
+  {
+    "text": "Got a 'payment declined' error even though my card works everywhere else. Really frustrating.",
+    "source": "app_store",
+    "rating": 2,
+    "user_segment": "new_user",
+    "author": "Chen K.",
+    "created_at": "2026-03-14T06:32:54.026795+00:00"
+  },
+  {
+    "text": "Love the AI recipe feature when it nails it \u2014 but it hallucinates ingredients I don't have.",
+    "source": "interview",
+    "rating": "",
+    "user_segment": "free_tier",
+    "author": "Noor J.",
+    "created_at": "2026-03-23T21:32:54.026795+00:00"
+  },
+  {
+    "text": "Tried to subscribe to Pro but the payment returned an error. Please fix.",
+    "source": "nps",
+    "rating": "",
+    "user_segment": "new_user",
+    "author": "Chen K.",
+    "created_at": "2026-02-23T20:32:54.026795+00:00"
+  },
+  {
+    "text": "Searching for 'pasta' returns desserts. Something's broken.",
+    "source": "play_store",
+    "rating": 2,
+    "user_segment": "free_tier",
+    "author": "Chen C.",
+    "created_at": "2026-02-09T12:32:54.026795+00:00"
+  },
+  {
+    "text": "Asked for a vegan dinner with chickpeas, got a recipe with chicken. Please fix.",
+    "source": "play_store",
+    "rating": 2,
+    "user_segment": "new_user",
+    "author": "Maya N.",
+    "created_at": "2026-04-14T18:32:54.026795+00:00"
+  },
+  {
+    "text": "Onboarding is slow and asks for too much info before I can even try the app.",
+    "source": "zendesk",
+    "rating": "",
+    "user_segment": "free_tier",
+    "author": "Alex J.",
+    "created_at": "2026-04-17T07:32:54.026795+00:00"
+  },
+  {
+    "text": "Dark mode would be a huge upgrade.",
+    "source": "app_store",
+    "rating": 3,
+    "user_segment": "power_user",
+    "author": "Riley X.",
+    "created_at": "2026-03-27T16:32:54.026795+00:00"
+  },
+  {
+    "text": "The search bar doesn't accept Unicode characters \u2014 can't search for cr\u00e8me br\u00fbl\u00e9e.",
+    "source": "app_store",
+    "rating": 3,
+    "user_segment": "power_user",
+    "author": "Jordan E.",
+    "created_at": "2026-04-08T06:32:54.026795+00:00"
+  },
+  {
+    "text": "Generated recipe had no measurements for half the ingredients.",
+    "source": "interview",
+    "rating": "",
+    "user_segment": "free_tier",
+    "author": "Noor T.",
+    "created_at": "2026-04-08T12:32:54.026795+00:00"
+  },
+  {
+    "text": "Meal plan I built on the web is missing from the mobile app.",
+    "source": "play_store",
+    "rating": 3,
+    "user_segment": "new_user",
+    "author": "Diego Q.",
+    "created_at": "2026-02-18T06:32:54.026795+00:00"
+  },
+  {
+    "text": "The search bar doesn't accept Unicode characters \u2014 can't search for cr\u00e8me br\u00fbl\u00e9e.",
+    "source": "app_store",
+    "rating": 2,
+    "user_segment": "free_tier",
+    "author": "Jordan U.",
+    "created_at": "2026-05-18T08:32:54.026795+00:00"
+  },
+  {
+    "text": "Searching for 'pasta' returns desserts. Something's broken.",
+    "source": "zendesk",
+    "rating": "",
+    "user_segment": "smb",
+    "author": "Sam X.",
+    "created_at": "2026-02-05T09:32:54.026795+00:00"
+  },
+  {
+    "text": "First-time experience felt confusing \u2014 I wasn't sure what the app actually did until step 4.",
+    "source": "nps",
+    "rating": 3,
+    "user_segment": "smb",
+    "author": "Priya S.",
+    "created_at": "2026-02-12T00:32:54.026795+00:00"
+  },
+  {
+    "text": "Love the AI recipe feature when it nails it \u2014 but it hallucinates ingredients I don't have.",
+    "source": "app_store",
+    "rating": 4,
+    "user_segment": "new_user",
+    "author": "Riley J.",
+    "created_at": "2026-02-28T16:32:54.026795+00:00"
+  },
+  {
+    "text": "Best meal planning app I've used. Recommended to my whole family.",
+    "source": "interview",
+    "rating": "",
+    "user_segment": "smb",
+    "author": "Chen Y.",
+    "created_at": "2026-05-17T00:32:54.026795+00:00"
+  },
+  {
+    "text": "Tried to subscribe to Pro but the payment failed silently. Happens every time.",
+    "source": "app_store",
+    "rating": 2,
+    "user_segment": "power_user",
+    "author": "Riley M.",
+    "created_at": "2026-04-03T20:32:54.026795+00:00"
+  },
+  {
+    "text": "Pro features should include grocery integration at this price.",
+    "source": "nps",
+    "rating": "",
+    "user_segment": "smb",
+    "author": "Sam X.",
+    "created_at": "2026-01-29T13:32:54.026795+00:00"
+  },
+  {
+    "text": "Free tier is so limited it's basically useless. Either make it free or be clear it's paid.",
+    "source": "zendesk",
+    "rating": "",
+    "user_segment": "free_tier",
+    "author": "Riley S.",
+    "created_at": "2026-05-10T20:32:54.026795+00:00"
+  },
+  {
+    "text": "Card was charged but Pro features didn't unlock for 6 hours. Support never replied.",
+    "source": "app_store",
+    "rating": 2,
+    "user_segment": "free_tier",
+    "author": "Riley T.",
+    "created_at": "2026-03-27T04:32:54.026795+00:00"
+  },
+  {
+    "text": "Recipe generator keeps suggesting the same 3 meals over and over.",
+    "source": "play_store",
+    "rating": 3,
+    "user_segment": "enterprise",
+    "author": "Jordan Z.",
+    "created_at": "2026-04-11T21:32:54.026795+00:00"
+  },
+  {
+    "text": "Saved recipes on iPhone don't sync to my iPad.",
+    "source": "nps",
+    "rating": "",
+    "user_segment": "power_user",
+    "author": "Jordan C.",
+    "created_at": "2026-01-27T01:32:54.026795+00:00"
+  },
+  {
+    "text": "Tried to subscribe to Pro but the payment wouldn't go through. Made me cancel.",
+    "source": "app_store",
+    "rating": 1,
+    "user_segment": "smb",
+    "author": "Noor H.",
+    "created_at": "2026-02-21T00:32:54.026795+00:00"
+  },
+  {
+    "text": "Search doesn't find recipes I've literally saved. Please fix.",
+    "source": "interview",
+    "rating": "",
+    "user_segment": "free_tier",
+    "author": "Chen U.",
+    "created_at": "2026-04-18T18:32:54.026795+00:00"
+  },
+  {
+    "text": "The search bar doesn't accept Unicode characters \u2014 can't search for cr\u00e8me br\u00fbl\u00e9e.",
+    "source": "play_store",
+    "rating": 3,
+    "user_segment": "free_tier",
+    "author": "Jordan P.",
+    "created_at": "2026-02-02T21:32:54.026795+00:00"
+  },
+  {
+    "text": "Took me 15 minutes to get past the dietary preferences screen. Way too many questions.",
+    "source": "nps",
+    "rating": "",
+    "user_segment": "smb",
+    "author": "Diego L.",
+    "created_at": "2026-05-19T14:32:54.026795+00:00"
+  },
+  {
+    "text": "Loving the app overall, only wish: dark mode!",
+    "source": "play_store",
+    "rating": 5,
+    "user_segment": "free_tier",
+    "author": "Noor H.",
+    "created_at": "2026-04-07T20:32:54.026795+00:00"
+  },
+  {
+    "text": "Love how it adapts to my pantry. Real game changer.",
+    "source": "play_store",
+    "rating": 5,
+    "user_segment": "free_tier",
+    "author": "Riley P.",
+    "created_at": "2026-01-29T00:32:54.026795+00:00"
+  },
+  {
+    "text": "Searching for 'pasta' returns desserts. Something's broken.",
+    "source": "nps",
+    "rating": 1,
+    "user_segment": "new_user",
+    "author": "Noor M.",
+    "created_at": "2026-04-13T05:32:54.026795+00:00"
+  },
+  {
+    "text": "Card was charged but Pro features didn't unlock for 6 hours. Support never replied.",
+    "source": "zendesk",
+    "rating": "",
+    "user_segment": "free_tier",
+    "author": "Yuki B.",
+    "created_at": "2026-04-07T04:32:54.026795+00:00"
+  },
+  {
+    "text": "Best meal planning app I've used. Recommended to my whole family.",
+    "source": "interview",
+    "rating": "",
+    "user_segment": "free_tier",
+    "author": "Jordan R.",
+    "created_at": "2026-02-22T04:32:54.026795+00:00"
+  },
+  {
+    "text": "Onboarding is slow and asks for too much info before I can even try the app.",
+    "source": "zendesk",
+    "rating": "",
+    "user_segment": "power_user",
+    "author": "Jordan Z.",
+    "created_at": "2026-01-30T01:32:54.026795+00:00"
+  },
+  {
+    "text": "The subscribe button just spins forever. Tried on iOS and web, same thing.",
+    "source": "play_store",
+    "rating": 3,
+    "user_segment": "power_user",
+    "author": "Riley H.",
+    "created_at": "2026-03-09T03:32:54.026795+00:00"
+  },
+  {
+    "text": "The search bar doesn't accept Unicode characters \u2014 can't search for cr\u00e8me br\u00fbl\u00e9e.",
+    "source": "nps",
+    "rating": 3,
+    "user_segment": "enterprise",
+    "author": "Diego R.",
+    "created_at": "2026-04-16T17:32:54.026795+00:00"
+  },
+  {
+    "text": "Generated recipe had no measurements for half the ingredients.",
+    "source": "zendesk",
+    "rating": "",
+    "user_segment": "enterprise",
+    "author": "Chen P.",
+    "created_at": "2026-01-28T19:32:54.026795+00:00"
+  },
+  {
+    "text": "Card was charged but Pro features didn't unlock for 12 hours. Support never replied.",
+    "source": "app_store",
+    "rating": 2,
+    "user_segment": "free_tier",
+    "author": "Riley K.",
+    "created_at": "2026-03-16T07:32:54.026795+00:00"
+  },
+  {
+    "text": "Got a 'payment declined' error even though my card works everywhere else. Please fix.",
+    "source": "nps",
+    "rating": "",
+    "user_segment": "free_tier",
+    "author": "Chen J.",
+    "created_at": "2026-04-24T10:32:54.026795+00:00"
+  },
+  {
+    "text": "Lost my shopping list when I switched phones. No way to recover.",
+    "source": "nps",
+    "rating": 2,
+    "user_segment": "free_tier",
+    "author": "Noor F.",
+    "created_at": "2026-05-04T21:32:54.026795+00:00"
+  },
+  {
+    "text": "App is beautiful and easy to use. 5 stars.",
+    "source": "app_store",
+    "rating": 5,
+    "user_segment": "new_user",
+    "author": "Alex P.",
+    "created_at": "2026-02-07T23:32:54.026795+00:00"
+  },
+  {
+    "text": "Card was charged but Pro features didn't unlock for 6 hours. Support never replied.",
+    "source": "play_store",
+    "rating": 1,
+    "user_segment": "smb",
+    "author": "Chen B.",
+    "created_at": "2026-04-28T09:32:54.026795+00:00"
+  },
+  {
+    "text": "Search is way too slow on Android \u2014 takes 5+ seconds.",
+    "source": "nps",
+    "rating": "",
+    "user_segment": "free_tier",
+    "author": "Diego P.",
+    "created_at": "2026-05-24T01:32:54.026795+00:00"
+  },
+  {
+    "text": "Charged twice for the same month \u2014",
+    "source": "zendesk",
+    "rating": "",
+    "user_segment": "new_user",
+    "author": "Diego Y.",
+    "created_at": "2026-03-18T16:32:54.026795+00:00"
+  },
+  {
+    "text": "Dark mode would be a huge upgrade.",
+    "source": "app_store",
+    "rating": 3,
+    "user_segment": "power_user",
+    "author": "Jordan V.",
+    "created_at": "2026-03-19T21:32:54.026795+00:00"
+  },
+  {
+    "text": "The search bar doesn't accept Unicode characters \u2014 can't search for cr\u00e8me br\u00fbl\u00e9e.",
+    "source": "zendesk",
+    "rating": "",
+    "user_segment": "new_user",
+    "author": "Chen N.",
+    "created_at": "2026-02-13T13:32:54.026795+00:00"
+  },
+  {
+    "text": "Recipe generator keeps suggesting the same 3 meals over and over.",
+    "source": "play_store",
+    "rating": 3,
+    "user_segment": "new_user",
+    "author": "Sam N.",
+    "created_at": "2026-02-27T23:32:54.026795+00:00"
+  },
+  {
+    "text": "Love the AI recipe feature when it nails it \u2014 but it hallucinates ingredients I don't have.",
+    "source": "nps",
+    "rating": 3,
+    "user_segment": "new_user",
+    "author": "Noor P.",
+    "created_at": "2026-02-25T20:32:54.026795+00:00"
+  },
+  {
+    "text": "Why is there no dark theme in 2025?",
+    "source": "interview",
+    "rating": "",
+    "user_segment": "free_tier",
+    "author": "Alex H.",
+    "created_at": "2026-02-05T22:32:54.026795+00:00"
+  },
+  {
+    "text": "First-time experience felt confusing \u2014 I wasn't sure what the app actually did until step 4.",
+    "source": "nps",
+    "rating": 3,
+    "user_segment": "free_tier",
+    "author": "Yuki X.",
+    "created_at": "2026-02-27T17:32:54.026795+00:00"
+  },
+  {
+    "text": "Got a 'payment declined' error even though my card works everywhere else. Really frustrating.",
+    "source": "play_store",
+    "rating": 1,
+    "user_segment": "smb",
+    "author": "Sam K.",
+    "created_at": "2026-02-18T03:32:54.026795+00:00"
+  },
+  {
+    "text": "Card was charged but Pro features didn't unlock for 48 hours. Support never replied.",
+    "source": "interview",
+    "rating": "",
+    "user_segment": "power_user",
+    "author": "Sam S.",
+    "created_at": "2026-04-13T13:32:54.026795+00:00"
+  },
+  {
+    "text": "Sync between devices is unreliable \u2014 sometimes works, sometimes silent failure.",
+    "source": "app_store",
+    "rating": 2,
+    "user_segment": "new_user",
+    "author": "Chen V.",
+    "created_at": "2026-03-31T18:32:54.026795+00:00"
+  },
+  {
+    "text": "Lost my shopping list when I switched phones. No way to recover.",
+    "source": "zendesk",
+    "rating": "",
+    "user_segment": "enterprise",
+    "author": "Noor R.",
+    "created_at": "2026-05-22T05:32:54.026795+00:00"
+  },
+  {
+    "text": "First-time experience felt confusing \u2014 I wasn't sure what the app actually did until step 4.",
+    "source": "nps",
+    "rating": 3,
+    "user_segment": "enterprise",
+    "author": "Jordan Y.",
+    "created_at": "2026-05-15T06:32:54.026795+00:00"
+  },
+  {
+    "text": "Got a 'payment declined' error even though my card works everywhere else. Please fix.",
+    "source": "nps",
+    "rating": "",
+    "user_segment": "smb",
+    "author": "Chen M.",
+    "created_at": "2026-03-05T21:32:54.026795+00:00"
+  },
+  {
+    "text": "Tried to subscribe to Pro but the payment returned an error. Happens every time.",
+    "source": "zendesk",
+    "rating": "",
+    "user_segment": "new_user",
+    "author": "Priya C.",
+    "created_at": "2026-02-17T17:32:54.026795+00:00"
+  },
+  {
+    "text": "The subscribe button just spins forever. Tried on iOS and web, same thing.",
+    "source": "interview",
+    "rating": "",
+    "user_segment": "smb",
+    "author": "Sam A.",
+    "created_at": "2026-03-15T09:32:54.026795+00:00"
+  },
+  {
+    "text": "Charged twice for the same month \u2014 Really frustrating.",
+    "source": "interview",
+    "rating": "",
+    "user_segment": "smb",
+    "author": "Alex K.",
+    "created_at": "2026-03-10T15:32:54.026795+00:00"
+  },
+  {
+    "text": "Asked for a vegan dinner with chickpeas, got a recipe with chicken.",
+    "source": "interview",
+    "rating": "",
+    "user_segment": "free_tier",
+    "author": "Diego F.",
+    "created_at": "2026-01-30T18:32:54.026795+00:00"
+  },
+  {
+    "text": "Dark mode would be a huge upgrade.",
+    "source": "play_store",
+    "rating": 4,
+    "user_segment": "smb",
+    "author": "Priya C.",
+    "created_at": "2026-04-17T17:32:54.026795+00:00"
+  },
+  {
+    "text": "Got a 'payment declined' error even though my card works everywhere else. Happens every time.",
+    "source": "zendesk",
+    "rating": "",
+    "user_segment": "enterprise",
+    "author": "Maya H.",
+    "created_at": "2026-03-25T23:32:54.026795+00:00"
+  },
+  {
+    "text": "Lost my shopping list when I switched phones. No way to recover.",
+    "source": "interview",
+    "rating": "",
+    "user_segment": "smb",
+    "author": "Sam E.",
+    "created_at": "2026-03-08T19:32:54.026795+00:00"
+  },
+  {
+    "text": "Skipped most of the onboarding and now the app keeps prompting me to finish it.",
+    "source": "zendesk",
+    "rating": "",
+    "user_segment": "smb",
+    "author": "Chen Q.",
+    "created_at": "2026-02-07T06:32:54.026795+00:00"
+  },
+  {
+    "text": "Love the AI recipe feature when it nails it \u2014 but it hallucinates ingredients I don't have.",
+    "source": "play_store",
+    "rating": 4,
+    "user_segment": "power_user",
+    "author": "Noor L.",
+    "created_at": "2026-04-14T06:32:54.026795+00:00"
+  },
+  {
+    "text": "The subscribe button just spins forever. Tried on iOS and web, same thing.",
+    "source": "zendesk",
+    "rating": "",
+    "user_segment": "smb",
+    "author": "Yuki H.",
+    "created_at": "2026-04-18T02:32:54.026795+00:00"
+  },
+  {
+    "text": "AI suggestions are great when they work but maybe 30% of the time the ingredients don't make sense.",
+    "source": "nps",
+    "rating": 3,
+    "user_segment": "power_user",
+    "author": "Diego A.",
+    "created_at": "2026-03-11T08:32:54.026795+00:00"
+  },
+  {
+    "text": "Pro features should include grocery integration at this price.",
+    "source": "play_store",
+    "rating": 3,
+    "user_segment": "new_user",
+    "author": "Riley X.",
+    "created_at": "2026-02-12T16:32:54.026795+00:00"
+  },
+  {
+    "text": "AI suggestions are great when they work but maybe 30% of the time the ingredients don't make sense.",
+    "source": "play_store",
+    "rating": 3,
+    "user_segment": "smb",
+    "author": "Riley C.",
+    "created_at": "2026-03-02T21:32:54.026795+00:00"
+  },
+  {
+    "text": "Love the AI recipe feature when it nails it \u2014 but it hallucinates ingredients I don't have.",
+    "source": "nps",
+    "rating": "",
+    "user_segment": "smb",
+    "author": "Diego B.",
+    "created_at": "2026-03-18T09:32:54.026795+00:00"
+  },
+  {
+    "text": "Sync between devices is unreliable \u2014 sometimes works, sometimes silent failure.",
+    "source": "interview",
+    "rating": "",
+    "user_segment": "new_user",
+    "author": "Sam H.",
+    "created_at": "2026-03-10T05:32:54.026795+00:00"
+  },
+  {
+    "text": "Why is there no dark theme in 2025?",
+    "source": "play_store",
+    "rating": 2,
+    "user_segment": "smb",
+    "author": "Chen P.",
+    "created_at": "2026-03-14T05:32:54.026795+00:00"
+  },
+  {
+    "text": "Tried to subscribe to Pro but the payment returned an error. Please fix.",
+    "source": "interview",
+    "rating": "",
+    "user_segment": "free_tier",
+    "author": "Yuki Y.",
+    "created_at": "2026-02-19T09:32:54.026795+00:00"
+  },
+  {
+    "text": "Filters in search don't actually filter. Vegan + under 30min still shows steak.",
+    "source": "zendesk",
+    "rating": "",
+    "user_segment": "free_tier",
+    "author": "Diego E.",
+    "created_at": "2026-04-05T11:32:54.026795+00:00"
+  },
+  {
+    "text": "Asked for a vegan dinner with chickpeas, got a recipe with chicken. Happens every time.",
+    "source": "app_store",
+    "rating": 2,
+    "user_segment": "new_user",
+    "author": "Priya M.",
+    "created_at": "2026-04-02T23:32:54.026795+00:00"
+  },
+  {
+    "text": "Skipped most of the onboarding and now the app keeps prompting me to finish it.",
+    "source": "play_store",
+    "rating": 3,
+    "user_segment": "new_user",
+    "author": "Noor Z.",
+    "created_at": "2026-04-11T10:32:54.026795+00:00"
+  },
+  {
+    "text": "Why is there no dark theme in 2025?",
+    "source": "app_store",
+    "rating": 3,
+    "user_segment": "new_user",
+    "author": "Alex L.",
+    "created_at": "2026-05-20T03:32:54.026795+00:00"
+  },
+  {
+    "text": "Dark mode would be a huge upgrade.",
+    "source": "play_store",
+    "rating": 3,
+    "user_segment": "enterprise",
+    "author": "Diego P.",
+    "created_at": "2026-03-16T20:32:54.026795+00:00"
+  },
+  {
+    "text": "Free tier is so limited it's basically useless. Either make it free or be clear it's paid.",
+    "source": "nps",
+    "rating": "",
+    "user_segment": "smb",
+    "author": "Riley A.",
+    "created_at": "2026-05-02T05:32:54.026795+00:00"
+  },
+  {
+    "text": "Meal plan I built on the web is missing from the mobile app.",
+    "source": "nps",
+    "rating": "",
+    "user_segment": "power_user",
+    "author": "Jordan J.",
+    "created_at": "2026-04-07T01:32:54.026795+00:00"
+  },
+  {
+    "text": "Saved recipes on iPhone don't sync to my iPad. Made me cancel.",
+    "source": "app_store",
+    "rating": 3,
+    "user_segment": "enterprise",
+    "author": "Jordan Q.",
+    "created_at": "2026-05-02T14:32:54.026795+00:00"
+  },
+  {
+    "text": "The subscribe button just spins forever. Tried on iOS and web, same thing.",
+    "source": "interview",
+    "rating": "",
+    "user_segment": "free_tier",
+    "author": "Riley V.",
+    "created_at": "2026-03-05T15:32:54.026795+00:00"
+  },
+  {
+    "text": "Asked for a vegan dinner with chickpeas, got a recipe with chicken. Contacted support, no reply yet.",
+    "source": "zendesk",
+    "rating": "",
+    "user_segment": "free_tier",
+    "author": "Priya X.",
+    "created_at": "2026-02-06T11:32:54.026795+00:00"
+  },
+  {
+    "text": "Why is there no dark theme in 2025?",
+    "source": "interview",
+    "rating": "",
+    "user_segment": "power_user",
+    "author": "Chen D.",
+    "created_at": "2026-03-11T23:32:54.026795+00:00"
+  },
+  {
+    "text": "Took me 15 minutes to get past the dietary preferences screen. Way too many questions.",
+    "source": "zendesk",
+    "rating": "",
+    "user_segment": "free_tier",
+    "author": "Riley P.",
+    "created_at": "2026-02-26T21:32:54.026795+00:00"
+  },
+  {
+    "text": "Search is way too slow on Android \u2014 takes 5+ seconds.",
+    "source": "nps",
+    "rating": 3,
+    "user_segment": "power_user",
+    "author": "Diego F.",
+    "created_at": "2026-03-05T08:32:54.026795+00:00"
+  },
+  {
+    "text": "Recipe generator keeps suggesting the same 3 meals over and over.",
+    "source": "play_store",
+    "rating": 3,
+    "user_segment": "free_tier",
+    "author": "Alex M.",
+    "created_at": "2026-02-07T11:32:54.026795+00:00"
+  },
+  {
+    "text": "Pro features should include grocery integration at this price.",
+    "source": "play_store",
+    "rating": 2,
+    "user_segment": "free_tier",
+    "author": "Diego W.",
+    "created_at": "2026-02-10T13:32:54.026795+00:00"
+  },
+  {
+    "text": "Generated recipe had no measurements for half the ingredients.",
+    "source": "nps",
+    "rating": "",
+    "user_segment": "power_user",
+    "author": "Sam U.",
+    "created_at": "2026-03-30T10:32:54.026795+00:00"
+  },
+  {
+    "text": "Card was charged but Pro features didn't unlock for 24 hours. Support never replied.",
+    "source": "app_store",
+    "rating": 2,
+    "user_segment": "enterprise",
+    "author": "Priya Q.",
+    "created_at": "2026-04-27T08:32:54.026795+00:00"
+  },
+  {
+    "text": "Filters in search don't actually filter. Vegan + under 30min still shows steak.",
+    "source": "interview",
+    "rating": "",
+    "user_segment": "free_tier",
+    "author": "Sam J.",
+    "created_at": "2026-03-21T22:32:54.026795+00:00"
+  },
+  {
+    "text": "Sync between devices is unreliable \u2014 sometimes works, sometimes silent failure.",
+    "source": "interview",
+    "rating": "",
+    "user_segment": "smb",
+    "author": "Diego G.",
+    "created_at": "2026-02-10T00:32:54.026795+00:00"
+  },
+  {
+    "text": "$15/month for what is essentially a recipe app is too much.",
+    "source": "play_store",
+    "rating": 2,
+    "user_segment": "smb",
+    "author": "Maya M.",
+    "created_at": "2026-02-04T00:32:54.026795+00:00"
+  },
+  {
+    "text": "The AI recipe suggestions are genuinely brilliant. Saved me so much time this week.",
+    "source": "nps",
+    "rating": "",
+    "user_segment": "power_user",
+    "author": "Yuki Y.",
+    "created_at": "2026-05-10T18:32:54.026795+00:00"
+  },
+  {
+    "text": "Love the AI recipe feature when it nails it \u2014 but it hallucinates ingredients I don't have.",
+    "source": "nps",
+    "rating": 3,
+    "user_segment": "power_user",
+    "author": "Alex U.",
+    "created_at": "2026-02-14T19:32:54.026795+00:00"
+  },
+  {
+    "text": "AI suggestions are great when they work but maybe 30% of the time the ingredients don't make sense.",
+    "source": "interview",
+    "rating": "",
+    "user_segment": "enterprise",
+    "author": "Maya K.",
+    "created_at": "2026-03-18T20:32:54.026795+00:00"
+  },
+  {
+    "text": "Search is way too slow on Android \u2014 takes 5+ seconds.",
+    "source": "app_store",
+    "rating": 2,
+    "user_segment": "new_user",
+    "author": "Maya W.",
+    "created_at": "2026-02-18T12:32:54.026795+00:00"
+  },
+  {
+    "text": "Card was charged but Pro features didn't unlock for 12 hours. Support never replied.",
+    "source": "play_store",
+    "rating": 2,
+    "user_segment": "smb",
+    "author": "Noor E.",
+    "created_at": "2026-02-08T18:32:54.026795+00:00"
+  },
+  {
+    "text": "The search bar doesn't accept Unicode characters \u2014 can't search for cr\u00e8me br\u00fbl\u00e9e.",
+    "source": "nps",
+    "rating": 2,
+    "user_segment": "smb",
+    "author": "Diego Z.",
+    "created_at": "2026-03-05T23:32:54.026795+00:00"
+  },
+  {
+    "text": "Onboarding is slow and asks for too much info before I can even try the app.",
+    "source": "nps",
+    "rating": "",
+    "user_segment": "new_user",
+    "author": "Sam Z.",
+    "created_at": "2026-04-14T07:32:54.026795+00:00"
+  },
+  {
+    "text": "Pricing went up without warning \u2014 felt sneaky.",
+    "source": "app_store",
+    "rating": 2,
+    "user_segment": "power_user",
+    "author": "Noor J.",
+    "created_at": "2026-04-28T12:32:54.026795+00:00"
+  },
+  {
+    "text": "AI suggestions are great when they work but maybe 30% of the time the ingredients don't make sense.",
+    "source": "zendesk",
+    "rating": "",
+    "user_segment": "power_user",
+    "author": "Yuki R.",
+    "created_at": "2026-03-16T07:32:54.026795+00:00"
+  },
+  {
+    "text": "Saved recipes on iPhone don't sync to my iPad. Really frustrating.",
+    "source": "app_store",
+    "rating": 3,
+    "user_segment": "new_user",
+    "author": "Sam F.",
+    "created_at": "2026-02-14T11:32:54.026795+00:00"
+  },
+  {
+    "text": "Asked for a vegan dinner with chickpeas, got a recipe with chicken. Happens every time.",
+    "source": "play_store",
+    "rating": 3,
+    "user_segment": "enterprise",
+    "author": "Priya J.",
+    "created_at": "2026-01-29T21:32:54.026795+00:00"
+  },
+  {
+    "text": "Got a 'payment declined' error even though my card works everywhere else. Contacted support, no reply yet.",
+    "source": "app_store",
+    "rating": 2,
+    "user_segment": "power_user",
+    "author": "Alex N.",
+    "created_at": "2026-03-01T05:32:54.026795+00:00"
+  },
+  {
+    "text": "Searching for 'pasta' returns desserts. Something's broken.",
+    "source": "nps",
+    "rating": "",
+    "user_segment": "new_user",
+    "author": "Jordan R.",
+    "created_at": "2026-02-24T22:32:54.026795+00:00"
+  },
+  {
+    "text": "Charged twice for the same month \u2014 Please fix.",
+    "source": "interview",
+    "rating": "",
+    "user_segment": "new_user",
+    "author": "Alex Y.",
+    "created_at": "2026-02-27T11:32:54.026795+00:00"
+  },
+  {
+    "text": "Asked for a vegan dinner with chickpeas, got a recipe with chicken. Happens every time.",
+    "source": "play_store",
+    "rating": 2,
+    "user_segment": "smb",
+    "author": "Sam Z.",
+    "created_at": "2026-05-16T18:32:54.026795+00:00"
+  },
+  {
+    "text": "Saved recipes on iPhone don't sync to my iPad. Contacted support, no reply yet.",
+    "source": "zendesk",
+    "rating": "",
+    "user_segment": "power_user",
+    "author": "Riley E.",
+    "created_at": "2026-02-02T16:32:54.026795+00:00"
+  },
+  {
+    "text": "Dark mode would be a huge upgrade.",
+    "source": "app_store",
+    "rating": 3,
+    "user_segment": "power_user",
+    "author": "Noor M.",
+    "created_at": "2026-03-08T05:32:54.026795+00:00"
+  },
+  {
+    "text": "Meal plan I built on the web is missing from the mobile app.",
+    "source": "nps",
+    "rating": "",
+    "user_segment": "new_user",
+    "author": "Sam E.",
+    "created_at": "2026-03-30T19:32:54.026795+00:00"
+  },
+  {
+    "text": "Lost my shopping list when I switched phones. No way to recover.",
+    "source": "zendesk",
+    "rating": "",
+    "user_segment": "power_user",
+    "author": "Jordan J.",
+    "created_at": "2026-04-01T15:32:54.026795+00:00"
+  },
+  {
+    "text": "Dark mode would be a huge upgrade.",
+    "source": "interview",
+    "rating": "",
+    "user_segment": "free_tier",
+    "author": "Maya Y.",
+    "created_at": "2026-03-10T06:32:54.026795+00:00"
+  },
+  {
+    "text": "Got a 'payment declined' error even though my card works everywhere else. Please fix.",
+    "source": "interview",
+    "rating": "",
+    "user_segment": "power_user",
+    "author": "Riley K.",
+    "created_at": "2026-03-09T09:32:54.026795+00:00"
+  },
+  {
+    "text": "Dark mode would be a huge upgrade.",
+    "source": "nps",
+    "rating": 3,
+    "user_segment": "free_tier",
+    "author": "Sam S.",
+    "created_at": "2026-03-23T05:32:54.026795+00:00"
+  },
+  {
+    "text": "The AI recipe suggestions are genuinely brilliant. Saved me so much time this week.",
+    "source": "zendesk",
+    "rating": "",
+    "user_segment": "power_user",
+    "author": "Riley U.",
+    "created_at": "2026-01-26T15:32:54.026795+00:00"
+  },
+  {
+    "text": "Love the AI recipe feature when it nails it \u2014 but it hallucinates ingredients I don't have.",
+    "source": "play_store",
+    "rating": 4,
+    "user_segment": "new_user",
+    "author": "Yuki C.",
+    "created_at": "2026-02-16T23:32:54.026795+00:00"
+  },
+  {
+    "text": "Card was charged but Pro features didn't unlock for 6 hours. Support never replied.",
+    "source": "app_store",
+    "rating": 2,
+    "user_segment": "free_tier",
+    "author": "Riley P.",
+    "created_at": "2026-03-22T16:32:54.026795+00:00"
+  },
+  {
+    "text": "Please add dark mode, my eyes hurt at night cooking.",
+    "source": "interview",
+    "rating": "",
+    "user_segment": "power_user",
+    "author": "Maya C.",
+    "created_at": "2026-03-18T06:32:54.026795+00:00"
+  },
+  {
+    "text": "First-time experience felt confusing \u2014 I wasn't sure what the app actually did until step 4.",
+    "source": "play_store",
+    "rating": 3,
+    "user_segment": "smb",
+    "author": "Yuki W.",
+    "created_at": "2026-03-18T15:32:54.026795+00:00"
+  },
+  {
+    "text": "Saved recipes on iPhone don't sync to my iPad. Contacted support, no reply yet.",
+    "source": "nps",
+    "rating": "",
+    "user_segment": "new_user",
+    "author": "Jordan C.",
+    "created_at": "2026-02-06T18:32:54.026795+00:00"
+  },
+  {
+    "text": "The AI recipe suggestions are genuinely brilliant. Saved me so much time this week.",
+    "source": "nps",
+    "rating": "",
+    "user_segment": "power_user",
+    "author": "Sam A.",
+    "created_at": "2026-05-18T16:32:54.026795+00:00"
+  },
+  {
+    "text": "Please add dark mode, my eyes hurt at night cooking.",
+    "source": "play_store",
+    "rating": 4,
+    "user_segment": "free_tier",
+    "author": "Maya F.",
+    "created_at": "2026-04-11T09:32:54.026795+00:00"
+  },
+  {
+    "text": "AI suggestions are great when they work but maybe 30% of the time the ingredients don't make sense.",
+    "source": "app_store",
+    "rating": 3,
+    "user_segment": "enterprise",
+    "author": "Diego C.",
+    "created_at": "2026-04-13T12:32:54.026795+00:00"
+  },
+  {
+    "text": "First-time experience felt confusing \u2014 I wasn't sure what the app actually did until step 4.",
+    "source": "app_store",
+    "rating": 3,
+    "user_segment": "enterprise",
+    "author": "Alex R.",
+    "created_at": "2026-03-28T09:32:54.026795+00:00"
+  },
+  {
+    "text": "Best meal planning app I've used. Recommended to my whole family.",
+    "source": "zendesk",
+    "rating": "",
+    "user_segment": "new_user",
+    "author": "Yuki X.",
+    "created_at": "2026-05-05T17:32:54.026795+00:00"
+  },
+  {
+    "text": "Meal plan I built on the web is missing from the mobile app.",
+    "source": "interview",
+    "rating": "",
+    "user_segment": "new_user",
+    "author": "Jordan B.",
+    "created_at": "2026-05-26T00:32:54.026795+00:00"
+  },
+  {
+    "text": "Generated recipe had no measurements for half the ingredients.",
+    "source": "play_store",
+    "rating": 1,
+    "user_segment": "free_tier",
+    "author": "Riley H.",
+    "created_at": "2026-01-27T00:32:54.026795+00:00"
+  },
+  {
+    "text": "Generated recipe had no measurements for half the ingredients.",
+    "source": "zendesk",
+    "rating": "",
+    "user_segment": "free_tier",
+    "author": "Chen D.",
+    "created_at": "2026-04-21T23:32:54.026795+00:00"
+  },
+  {
+    "text": "Search doesn't find recipes I've literally saved. Please fix.",
+    "source": "play_store",
+    "rating": 3,
+    "user_segment": "new_user",
+    "author": "Noor K.",
+    "created_at": "2026-05-20T13:32:54.026795+00:00"
+  },
+  {
+    "text": "Sync between devices is unreliable \u2014 sometimes works, sometimes silent failure.",
+    "source": "zendesk",
+    "rating": "",
+    "user_segment": "smb",
+    "author": "Alex M.",
+    "created_at": "2026-05-14T08:32:54.026795+00:00"
+  },
+  {
+    "text": "First-time experience felt confusing \u2014 I wasn't sure what the app actually did until step 4.",
+    "source": "zendesk",
+    "rating": "",
+    "user_segment": "power_user",
+    "author": "Noor M.",
+    "created_at": "2026-02-20T06:32:54.026795+00:00"
+  },
+  {
+    "text": "Filters in search don't actually filter. Vegan + under 30min still shows steak.",
+    "source": "play_store",
+    "rating": 3,
+    "user_segment": "power_user",
+    "author": "Priya A.",
+    "created_at": "2026-01-30T08:32:54.026795+00:00"
+  },
+  {
+    "text": "$15/month for what is essentially a recipe app is too much.",
+    "source": "play_store",
+    "rating": 2,
+    "user_segment": "new_user",
+    "author": "Chen A.",
+    "created_at": "2026-03-05T03:32:54.026795+00:00"
+  },
+  {
+    "text": "Lost my shopping list when I switched phones. No way to recover.",
+    "source": "zendesk",
+    "rating": "",
+    "user_segment": "free_tier",
+    "author": "Jordan P.",
+    "created_at": "2026-05-12T19:32:54.026795+00:00"
+  },
+  {
+    "text": "Asked for a vegan dinner with chickpeas, got a recipe with chicken. Please fix.",
+    "source": "zendesk",
+    "rating": "",
+    "user_segment": "power_user",
+    "author": "Diego P.",
+    "created_at": "2026-05-15T00:32:54.026795+00:00"
+  },
+  {
+    "text": "Why is there no dark theme in 2025?",
+    "source": "nps",
+    "rating": "",
+    "user_segment": "new_user",
+    "author": "Diego E.",
+    "created_at": "2026-05-15T07:32:54.026795+00:00"
+  },
+  {
+    "text": "Filters in search don't actually filter. Vegan + under 30min still shows steak.",
+    "source": "app_store",
+    "rating": 3,
+    "user_segment": "smb",
+    "author": "Priya H.",
+    "created_at": "2026-03-15T00:32:54.026795+00:00"
+  },
+  {
+    "text": "Onboarding is slow and asks for too much info before I can even try the app.",
+    "source": "nps",
+    "rating": "",
+    "user_segment": "enterprise",
+    "author": "Noor J.",
+    "created_at": "2026-02-20T15:32:54.026795+00:00"
+  },
+  {
+    "text": "Loved the recipes but the signup flow asks for my address?? Why?",
+    "source": "play_store",
+    "rating": 2,
+    "user_segment": "power_user",
+    "author": "Noor Q.",
+    "created_at": "2026-05-06T22:32:54.026795+00:00"
+  },
+  {
+    "text": "Took me 20 minutes to get past the dietary preferences screen. Way too many questions.",
+    "source": "play_store",
+    "rating": 3,
+    "user_segment": "enterprise",
+    "author": "Sam C.",
+    "created_at": "2026-04-16T11:32:54.026795+00:00"
+  },
+  {
+    "text": "Got a 'payment declined' error even though my card works everywhere else.",
+    "source": "interview",
+    "rating": "",
+    "user_segment": "enterprise",
+    "author": "Priya C.",
+    "created_at": "2026-05-20T19:32:54.026795+00:00"
+  },
+  {
+    "text": "Sync between devices is unreliable \u2014 sometimes works, sometimes silent failure.",
+    "source": "nps",
+    "rating": "",
+    "user_segment": "enterprise",
+    "author": "Priya A.",
+    "created_at": "2026-02-28T16:32:54.026795+00:00"
+  },
+  {
+    "text": "Pro features should include grocery integration at this price.",
+    "source": "interview",
+    "rating": "",
+    "user_segment": "power_user",
+    "author": "Sam Q.",
+    "created_at": "2026-02-19T08:32:54.026795+00:00"
+  },
+  {
+    "text": "Card was charged but Pro features didn't unlock for 6 hours. Support never replied.",
+    "source": "app_store",
+    "rating": 1,
+    "user_segment": "power_user",
+    "author": "Jordan N.",
+    "created_at": "2026-02-08T18:32:54.026795+00:00"
+  },
+  {
+    "text": "Asked for a vegan dinner with chickpeas, got a recipe with chicken. Made me cancel.",
+    "source": "interview",
+    "rating": "",
+    "user_segment": "new_user",
+    "author": "Sam G.",
+    "created_at": "2026-04-22T23:32:54.026795+00:00"
+  },
+  {
+    "text": "The new weekly meal plan feature is fantastic.",
+    "source": "play_store",
+    "rating": 4,
+    "user_segment": "new_user",
+    "author": "Alex Q.",
+    "created_at": "2026-01-30T15:32:54.026795+00:00"
+  },
+  {
+    "text": "Charged twice for the same month \u2014 Happens every time.",
+    "source": "nps",
+    "rating": 2,
+    "user_segment": "power_user",
+    "author": "Chen G.",
+    "created_at": "2026-02-27T12:32:54.026795+00:00"
+  },
+  {
+    "text": "Love how it adapts to my pantry. Real game changer.",
+    "source": "zendesk",
+    "rating": "",
+    "user_segment": "new_user",
+    "author": "Yuki V.",
+    "created_at": "2026-03-29T21:32:54.026795+00:00"
+  },
+  {
+    "text": "The search bar doesn't accept Unicode characters \u2014 can't search for cr\u00e8me br\u00fbl\u00e9e.",
+    "source": "nps",
+    "rating": 3,
+    "user_segment": "enterprise",
+    "author": "Riley E.",
+    "created_at": "2026-05-18T23:32:54.026795+00:00"
+  },
+  {
+    "text": "Love the AI recipe feature when it nails it \u2014 but it hallucinates ingredients I don't have.",
+    "source": "play_store",
+    "rating": 3,
+    "user_segment": "enterprise",
+    "author": "Noor T.",
+    "created_at": "2026-04-07T03:32:54.026795+00:00"
+  },
+  {
+    "text": "Sync between devices is unreliable \u2014 sometimes works, sometimes silent failure.",
+    "source": "interview",
+    "rating": "",
+    "user_segment": "smb",
+    "author": "Maya F.",
+    "created_at": "2026-03-22T15:32:54.026795+00:00"
+  },
+  {
+    "text": "Charged twice for the same month \u2014 Please fix.",
+    "source": "app_store",
+    "rating": 2,
+    "user_segment": "free_tier",
+    "author": "Chen U.",
+    "created_at": "2026-05-18T10:32:54.026795+00:00"
+  },
+  {
+    "text": "Free tier is so limited it's basically useless. Either make it free or be clear it's paid.",
+    "source": "app_store",
+    "rating": 1,
+    "user_segment": "enterprise",
+    "author": "Diego Z.",
+    "created_at": "2026-03-02T18:32:54.026795+00:00"
+  },
+  {
+    "text": "Card was charged but Pro features didn't unlock for 48 hours. Support never replied.",
+    "source": "zendesk",
+    "rating": "",
+    "user_segment": "power_user",
+    "author": "Jordan U.",
+    "created_at": "2026-01-26T20:32:54.026795+00:00"
+  },
+  {
+    "text": "Onboarding is slow and asks for too much info before I can even try the app.",
+    "source": "interview",
+    "rating": "",
+    "user_segment": "enterprise",
+    "author": "Yuki U.",
+    "created_at": "2026-05-22T03:32:54.026795+00:00"
+  },
+  {
+    "text": "Card was charged but Pro features didn't unlock for 48 hours. Support never replied.",
+    "source": "interview",
+    "rating": "",
+    "user_segment": "smb",
+    "author": "Alex C.",
+    "created_at": "2026-04-16T20:32:54.026795+00:00"
+  },
+  {
+    "text": "Charged twice for the same month \u2014 Please fix.",
+    "source": "app_store",
+    "rating": 2,
+    "user_segment": "free_tier",
+    "author": "Jordan E.",
+    "created_at": "2026-05-25T15:32:54.026795+00:00"
+  },
+  {
+    "text": "Recipe generator keeps suggesting the same 3 meals over and over.",
+    "source": "zendesk",
+    "rating": "",
+    "user_segment": "power_user",
+    "author": "Yuki Y.",
+    "created_at": "2026-05-19T01:32:54.026795+00:00"
+  },
+  {
+    "text": "The AI recipe suggestions are genuinely brilliant. Saved me so much time this week.",
+    "source": "interview",
+    "rating": "",
+    "user_segment": "new_user",
+    "author": "Chen Y.",
+    "created_at": "2026-02-04T14:32:54.026795+00:00"
+  },
+  {
+    "text": "Pro features should include grocery integration at this price.",
+    "source": "interview",
+    "rating": "",
+    "user_segment": "enterprise",
+    "author": "Chen E.",
+    "created_at": "2026-05-13T15:32:54.026795+00:00"
+  },
+  {
+    "text": "Pro features should include grocery integration at this price.",
+    "source": "nps",
+    "rating": "",
+    "user_segment": "free_tier",
+    "author": "Yuki M.",
+    "created_at": "2026-05-03T03:32:54.026795+00:00"
+  },
+  {
+    "text": "First-time experience felt confusing \u2014 I wasn't sure what the app actually did until step 4.",
+    "source": "play_store",
+    "rating": 3,
+    "user_segment": "enterprise",
+    "author": "Priya F.",
+    "created_at": "2026-04-16T02:32:54.026795+00:00"
+  },
+  {
+    "text": "Lost my shopping list when I switched phones. No way to recover.",
+    "source": "interview",
+    "rating": "",
+    "user_segment": "free_tier",
+    "author": "Chen V.",
+    "created_at": "2026-05-21T20:32:54.026795+00:00"
+  },
+  {
+    "text": "First-time experience felt confusing \u2014 I wasn't sure what the app actually did until step 4.",
+    "source": "app_store",
+    "rating": 3,
+    "user_segment": "new_user",
+    "author": "Jordan M.",
+    "created_at": "2026-05-07T15:32:54.026795+00:00"
+  },
+  {
+    "text": "Free tier is so limited it's basically useless. Either make it free or be clear it's paid.",
+    "source": "app_store",
+    "rating": 2,
+    "user_segment": "enterprise",
+    "author": "Jordan H.",
+    "created_at": "2026-03-30T01:32:54.026795+00:00"
+  },
+  {
+    "text": "Why is there no dark theme in 2025?",
+    "source": "zendesk",
+    "rating": "",
+    "user_segment": "new_user",
+    "author": "Alex N.",
+    "created_at": "2026-02-14T22:32:54.026795+00:00"
+  },
+  {
+    "text": "Generated recipe had no measurements for half the ingredients.",
+    "source": "play_store",
+    "rating": 2,
+    "user_segment": "enterprise",
+    "author": "Diego N.",
+    "created_at": "2026-03-23T13:32:54.026795+00:00"
+  },
+  {
+    "text": "The subscribe button just spins forever. Tried on iOS and web, same thing.",
+    "source": "interview",
+    "rating": "",
+    "user_segment": "power_user",
+    "author": "Priya Q.",
+    "created_at": "2026-03-03T04:32:54.026795+00:00"
+  },
+  {
+    "text": "Tried to subscribe to Pro but the payment returned an error. Really frustrating.",
+    "source": "zendesk",
+    "rating": "",
+    "user_segment": "new_user",
+    "author": "Chen F.",
+    "created_at": "2026-04-22T22:32:54.026795+00:00"
+  },
+  {
+    "text": "Best meal planning app I've used. Recommended to my whole family.",
+    "source": "app_store",
+    "rating": 4,
+    "user_segment": "free_tier",
+    "author": "Noor Y.",
+    "created_at": "2026-04-12T06:32:54.026795+00:00"
+  },
+  {
+    "text": "Card was charged but Pro features didn't unlock for 48 hours. Support never replied.",
+    "source": "play_store",
+    "rating": 1,
+    "user_segment": "power_user",
+    "author": "Jordan P.",
+    "created_at": "2026-05-13T15:32:54.026795+00:00"
+  },
+  {
+    "text": "Why is there no dark theme in 2025?",
+    "source": "zendesk",
+    "rating": "",
+    "user_segment": "new_user",
+    "author": "Alex N.",
+    "created_at": "2026-04-17T18:32:54.026795+00:00"
+  },
+  {
+    "text": "Filters in search don't actually filter. Vegan + under 30min still shows steak.",
+    "source": "play_store",
+    "rating": 1,
+    "user_segment": "smb",
+    "author": "Sam K.",
+    "created_at": "2026-04-10T01:32:54.026795+00:00"
+  },
+  {
+    "text": "App is beautiful and easy to use. 5 stars.",
+    "source": "nps",
+    "rating": 5,
+    "user_segment": "enterprise",
+    "author": "Sam R.",
+    "created_at": "2026-04-29T20:32:54.026795+00:00"
+  },
+  {
+    "text": "Love how it adapts to my pantry. Real game changer.",
+    "source": "nps",
+    "rating": 5,
+    "user_segment": "free_tier",
+    "author": "Riley F.",
+    "created_at": "2026-05-14T05:32:54.026795+00:00"
+  },
+  {
+    "text": "Generated recipe had no measurements for half the ingredients.",
+    "source": "zendesk",
+    "rating": "",
+    "user_segment": "new_user",
+    "author": "Maya Q.",
+    "created_at": "2026-05-02T11:32:54.026795+00:00"
+  },
+  {
+    "text": "Recipe generator keeps suggesting the same 3 meals over and over.",
+    "source": "zendesk",
+    "rating": "",
+    "user_segment": "power_user",
+    "author": "Sam C.",
+    "created_at": "2026-03-15T00:32:54.026795+00:00"
+  },
+  {
+    "text": "Loving the app overall, only wish: dark mode!",
+    "source": "interview",
+    "rating": "",
+    "user_segment": "new_user",
+    "author": "Riley S.",
+    "created_at": "2026-04-26T08:32:54.026795+00:00"
+  },
+  {
+    "text": "Love the AI recipe feature when it nails it \u2014 but it hallucinates ingredients I don't have.",
+    "source": "nps",
+    "rating": "",
+    "user_segment": "enterprise",
+    "author": "Sam N.",
+    "created_at": "2026-04-25T10:32:54.026795+00:00"
+  },
+  {
+    "text": "The AI recipe suggestions are genuinely brilliant. Saved me so much time this week.",
+    "source": "interview",
+    "rating": "",
+    "user_segment": "free_tier",
+    "author": "Yuki E.",
+    "created_at": "2026-03-13T09:32:54.026795+00:00"
+  },
+  {
+    "text": "The subscribe button just spins forever. Tried on iOS and web, same thing.",
+    "source": "play_store",
+    "rating": 1,
+    "user_segment": "power_user",
+    "author": "Alex P.",
+    "created_at": "2026-04-28T19:32:54.026795+00:00"
+  },
+  {
+    "text": "The subscribe button just spins forever. Tried on iOS and web, same thing.",
+    "source": "play_store",
+    "rating": 3,
+    "user_segment": "enterprise",
+    "author": "Chen Z.",
+    "created_at": "2026-05-07T06:32:54.026795+00:00"
+  },
+  {
+    "text": "The AI recipe suggestions are genuinely brilliant. Saved me so much time this week.",
+    "source": "app_store",
+    "rating": 5,
+    "user_segment": "free_tier",
+    "author": "Chen J.",
+    "created_at": "2026-03-15T13:32:54.026795+00:00"
+  },
+  {
+    "text": "Search doesn't find recipes I've literally saved.",
+    "source": "interview",
+    "rating": "",
+    "user_segment": "smb",
+    "author": "Sam P.",
+    "created_at": "2026-03-11T09:32:54.026795+00:00"
+  },
+  {
+    "text": "Charged twice for the same month \u2014 Made me cancel.",
+    "source": "interview",
+    "rating": "",
+    "user_segment": "new_user",
+    "author": "Yuki D.",
+    "created_at": "2026-02-17T22:32:54.026795+00:00"
+  },
+  {
+    "text": "Sync between devices is unreliable \u2014 sometimes works, sometimes silent failure.",
+    "source": "nps",
+    "rating": 3,
+    "user_segment": "smb",
+    "author": "Alex F.",
+    "created_at": "2026-03-13T06:32:54.026795+00:00"
+  },
+  {
+    "text": "Loved the recipes but the signup flow asks for my address?? Why?",
+    "source": "interview",
+    "rating": "",
+    "user_segment": "smb",
+    "author": "Alex N.",
+    "created_at": "2026-03-09T04:32:54.026795+00:00"
+  },
+  {
+    "text": "Love how it adapts to my pantry. Real game changer.",
+    "source": "play_store",
+    "rating": 5,
+    "user_segment": "enterprise",
+    "author": "Chen A.",
+    "created_at": "2026-02-19T10:32:54.026795+00:00"
+  },
+  {
+    "text": "AI suggestions are great when they work but maybe 30% of the time the ingredients don't make sense.",
+    "source": "zendesk",
+    "rating": "",
+    "user_segment": "new_user",
+    "author": "Jordan E.",
+    "created_at": "2026-04-20T10:32:54.026795+00:00"
+  },
+  {
+    "text": "Skipped most of the onboarding and now the app keeps prompting me to finish it.",
+    "source": "zendesk",
+    "rating": "",
+    "user_segment": "smb",
+    "author": "Yuki W.",
+    "created_at": "2026-04-21T02:32:54.026795+00:00"
+  },
+  {
+    "text": "The subscribe button just spins forever. Tried on iOS and web, same thing.",
+    "source": "play_store",
+    "rating": 2,
+    "user_segment": "free_tier",
+    "author": "Chen B.",
+    "created_at": "2026-02-20T10:32:54.026795+00:00"
+  },
+  {
+    "text": "Searching for 'pasta' returns desserts. Something's broken.",
+    "source": "app_store",
+    "rating": 2,
+    "user_segment": "smb",
+    "author": "Priya S.",
+    "created_at": "2026-02-24T09:32:54.026795+00:00"
+  },
+  {
+    "text": "The AI recipe suggestions are genuinely brilliant. Saved me so much time this week.",
+    "source": "play_store",
+    "rating": 5,
+    "user_segment": "new_user",
+    "author": "Jordan B.",
+    "created_at": "2026-02-02T19:32:54.026795+00:00"
+  },
+  {
+    "text": "AI suggestions are great when they work but maybe 30% of the time the ingredients don't make sense.",
+    "source": "play_store",
+    "rating": 3,
+    "user_segment": "free_tier",
+    "author": "Riley W.",
+    "created_at": "2026-04-08T11:32:54.026795+00:00"
+  },
+  {
+    "text": "The AI recipe suggestions are genuinely brilliant. Saved me so much time this week.",
+    "source": "play_store",
+    "rating": 5,
+    "user_segment": "smb",
+    "author": "Priya R.",
+    "created_at": "2026-03-24T06:32:54.026795+00:00"
+  },
+  {
+    "text": "The search bar doesn't accept Unicode characters \u2014 can't search for cr\u00e8me br\u00fbl\u00e9e.",
+    "source": "zendesk",
+    "rating": "",
+    "user_segment": "new_user",
+    "author": "Maya A.",
+    "created_at": "2026-05-05T17:32:54.026795+00:00"
+  },
+  {
+    "text": "Recipe generator keeps suggesting the same 3 meals over and over.",
+    "source": "interview",
+    "rating": "",
+    "user_segment": "power_user",
+    "author": "Jordan X.",
+    "created_at": "2026-02-15T19:32:54.026795+00:00"
+  },
+  {
+    "text": "Skipped most of the onboarding and now the app keeps prompting me to finish it.",
+    "source": "interview",
+    "rating": "",
+    "user_segment": "new_user",
+    "author": "Noor E.",
+    "created_at": "2026-05-23T04:32:54.026795+00:00"
+  },
+  {
+    "text": "Please add dark mode, my eyes hurt at night cooking.",
+    "source": "play_store",
+    "rating": 4,
+    "user_segment": "enterprise",
+    "author": "Riley N.",
+    "created_at": "2026-03-09T16:32:54.026795+00:00"
+  },
+  {
+    "text": "The new weekly meal plan feature is fantastic.",
+    "source": "zendesk",
+    "rating": "",
+    "user_segment": "enterprise",
+    "author": "Diego V.",
+    "created_at": "2026-04-28T11:32:54.026795+00:00"
+  },
+  {
+    "text": "Asked for a vegan dinner with chickpeas, got a recipe with chicken. Really frustrating.",
+    "source": "interview",
+    "rating": "",
+    "user_segment": "free_tier",
+    "author": "Yuki V.",
+    "created_at": "2026-03-02T14:32:54.026795+00:00"
+  },
+  {
+    "text": "Took me 25 minutes to get past the dietary preferences screen. Way too many questions.",
+    "source": "app_store",
+    "rating": 3,
+    "user_segment": "enterprise",
+    "author": "Maya J.",
+    "created_at": "2026-04-20T05:32:54.026795+00:00"
+  },
+  {
+    "text": "Why is there no dark theme in 2025?",
+    "source": "play_store",
+    "rating": 2,
+    "user_segment": "new_user",
+    "author": "Yuki N.",
+    "created_at": "2026-03-20T18:32:54.026795+00:00"
+  },
+  {
+    "text": "Dark mode would be a huge upgrade.",
+    "source": "app_store",
+    "rating": 4,
+    "user_segment": "smb",
+    "author": "Riley N.",
+    "created_at": "2026-04-18T17:32:54.026795+00:00"
+  },
+  {
+    "text": "Meal plan I built on the web is missing from the mobile app.",
+    "source": "zendesk",
+    "rating": "",
+    "user_segment": "power_user",
+    "author": "Diego W.",
+    "created_at": "2026-02-22T03:32:54.026795+00:00"
+  },
+  {
+    "text": "Sync between devices is unreliable \u2014 sometimes works, sometimes silent failure.",
+    "source": "interview",
+    "rating": "",
+    "user_segment": "free_tier",
+    "author": "Priya K.",
+    "created_at": "2026-04-17T20:32:54.026795+00:00"
+  },
+  {
+    "text": "Card was charged but Pro features didn't unlock for 24 hours. Support never replied.",
+    "source": "interview",
+    "rating": "",
+    "user_segment": "enterprise",
+    "author": "Sam H.",
+    "created_at": "2026-02-17T20:32:54.026795+00:00"
+  },
+  {
+    "text": "AI suggestions are great when they work but maybe 30% of the time the ingredients don't make sense.",
+    "source": "nps",
+    "rating": "",
+    "user_segment": "enterprise",
+    "author": "Yuki K.",
+    "created_at": "2026-04-13T14:32:54.026795+00:00"
+  },
+  {
+    "text": "Asked for a vegan dinner with chickpeas, got a recipe with chicken. Happens every time.",
+    "source": "app_store",
+    "rating": 3,
+    "user_segment": "free_tier",
+    "author": "Sam R.",
+    "created_at": "2026-03-12T07:32:54.026795+00:00"
+  },
+  {
+    "text": "App is beautiful and easy to use. 5 stars.",
+    "source": "app_store",
+    "rating": 5,
+    "user_segment": "smb",
+    "author": "Alex E.",
+    "created_at": "2026-03-19T16:32:54.026795+00:00"
+  },
+  {
+    "text": "Card was charged but Pro features didn't unlock for 24 hours. Support never replied.",
+    "source": "nps",
+    "rating": "",
+    "user_segment": "power_user",
+    "author": "Chen Y.",
+    "created_at": "2026-01-31T11:32:54.026795+00:00"
+  },
+  {
+    "text": "Tried to subscribe to Pro but the payment wouldn't go through. Contacted support, no reply yet.",
+    "source": "play_store",
+    "rating": 2,
+    "user_segment": "new_user",
+    "author": "Noor J.",
+    "created_at": "2026-03-06T00:32:54.026795+00:00"
+  },
+  {
+    "text": "Loved the recipes but the signup flow asks for my address?? Why?",
+    "source": "interview",
+    "rating": "",
+    "user_segment": "smb",
+    "author": "Sam E.",
+    "created_at": "2026-02-17T20:32:54.026795+00:00"
+  },
+  {
+    "text": "Filters in search don't actually filter. Vegan + under 30min still shows steak.",
+    "source": "nps",
+    "rating": 2,
+    "user_segment": "new_user",
+    "author": "Diego G.",
+    "created_at": "2026-04-07T01:32:54.026795+00:00"
+  },
+  {
+    "text": "Saved recipes on iPhone don't sync to my iPad. Contacted support, no reply yet.",
+    "source": "interview",
+    "rating": "",
+    "user_segment": "new_user",
+    "author": "Jordan H.",
+    "created_at": "2026-05-02T01:32:54.026795+00:00"
+  },
+  {
+    "text": "Why is there no dark theme in 2025?",
+    "source": "zendesk",
+    "rating": "",
+    "user_segment": "smb",
+    "author": "Diego U.",
+    "created_at": "2026-05-09T22:32:54.026795+00:00"
+  },
+  {
+    "text": "Took me 10 minutes to get past the dietary preferences screen. Way too many questions.",
+    "source": "zendesk",
+    "rating": "",
+    "user_segment": "free_tier",
+    "author": "Yuki S.",
+    "created_at": "2026-04-18T11:32:54.026795+00:00"
+  },
+  {
+    "text": "Recipe generator keeps suggesting the same 3 meals over and over.",
+    "source": "zendesk",
+    "rating": "",
+    "user_segment": "enterprise",
+    "author": "Jordan F.",
+    "created_at": "2026-01-30T10:32:54.026795+00:00"
+  },
+  {
+    "text": "Pro features should include grocery integration at this price.",
+    "source": "app_store",
+    "rating": 2,
+    "user_segment": "power_user",
+    "author": "Jordan Z.",
+    "created_at": "2026-04-27T02:32:54.026795+00:00"
+  },
+  {
+    "text": "Charged twice for the same month \u2014 Please fix.",
+    "source": "app_store",
+    "rating": 2,
+    "user_segment": "new_user",
+    "author": "Riley W.",
+    "created_at": "2026-02-23T05:32:54.026795+00:00"
+  },
+  {
+    "text": "First-time experience felt confusing \u2014 I wasn't sure what the app actually did until step 4.",
+    "source": "interview",
+    "rating": "",
+    "user_segment": "new_user",
+    "author": "Sam W.",
+    "created_at": "2026-05-19T06:32:54.026795+00:00"
+  },
+  {
+    "text": "The AI recipe suggestions are genuinely brilliant. Saved me so much time this week.",
+    "source": "app_store",
+    "rating": 5,
+    "user_segment": "new_user",
+    "author": "Diego J.",
+    "created_at": "2026-03-30T13:32:54.026795+00:00"
+  },
+  {
+    "text": "Recipe generator keeps suggesting the same 3 meals over and over.",
+    "source": "play_store",
+    "rating": 2,
+    "user_segment": "new_user",
+    "author": "Diego J.",
+    "created_at": "2026-04-17T12:32:54.026795+00:00"
+  },
+  {
+    "text": "Searching for 'pasta' returns desserts. Something's broken.",
+    "source": "nps",
+    "rating": "",
+    "user_segment": "free_tier",
+    "author": "Sam K.",
+    "created_at": "2026-05-12T09:32:54.026795+00:00"
+  },
+  {
+    "text": "Tried to subscribe to Pro but the payment wouldn't go through. Please fix.",
+    "source": "interview",
+    "rating": "",
+    "user_segment": "free_tier",
+    "author": "Jordan M.",
+    "created_at": "2026-04-30T17:32:54.026795+00:00"
+  },
+  {
+    "text": "Why is there no dark theme in 2025?",
+    "source": "play_store",
+    "rating": 2,
+    "user_segment": "power_user",
+    "author": "Noor L.",
+    "created_at": "2026-03-16T10:32:54.026795+00:00"
+  },
+  {
+    "text": "Took me 10 minutes to get past the dietary preferences screen. Way too many questions.",
+    "source": "app_store",
+    "rating": 3,
+    "user_segment": "free_tier",
+    "author": "Sam Z.",
+    "created_at": "2026-05-06T23:32:54.026795+00:00"
+  },
+  {
+    "text": "Sync between devices is unreliable \u2014 sometimes works, sometimes silent failure.",
+    "source": "play_store",
+    "rating": 3,
+    "user_segment": "smb",
+    "author": "Alex D.",
+    "created_at": "2026-04-18T17:32:54.026795+00:00"
+  },
+  {
+    "text": "The AI recipe suggestions are genuinely brilliant. Saved me so much time this week.",
+    "source": "zendesk",
+    "rating": "",
+    "user_segment": "enterprise",
+    "author": "Riley Z.",
+    "created_at": "2026-04-09T04:32:54.026795+00:00"
+  },
+  {
+    "text": "Tried to subscribe to Pro but the payment failed silently. Please fix.",
+    "source": "play_store",
+    "rating": 2,
+    "user_segment": "free_tier",
+    "author": "Maya Z.",
+    "created_at": "2026-04-10T11:32:54.026795+00:00"
+  },
+  {
+    "text": "Got a 'payment declined' error even though my card works everywhere else. Please fix.",
+    "source": "app_store",
+    "rating": 2,
+    "user_segment": "enterprise",
+    "author": "Riley Y.",
+    "created_at": "2026-04-04T11:32:54.026795+00:00"
+  },
+  {
+    "text": "The new weekly meal plan feature is fantastic.",
+    "source": "play_store",
+    "rating": 4,
+    "user_segment": "new_user",
+    "author": "Priya D.",
+    "created_at": "2026-05-09T03:32:54.026795+00:00"
+  },
+  {
+    "text": "Love the AI recipe feature when it nails it \u2014 but it hallucinates ingredients I don't have.",
+    "source": "nps",
+    "rating": "",
+    "user_segment": "power_user",
+    "author": "Yuki N.",
+    "created_at": "2026-02-28T11:32:54.026795+00:00"
+  },
+  {
+    "text": "Saved recipes on iPhone don't sync to my iPad.",
+    "source": "play_store",
+    "rating": 2,
+    "user_segment": "new_user",
+    "author": "Riley Q.",
+    "created_at": "2026-01-28T10:32:54.026795+00:00"
+  },
+  {
+    "text": "Got a 'payment declined' error even though my card works everywhere else.",
+    "source": "zendesk",
+    "rating": "",
+    "user_segment": "free_tier",
+    "author": "Yuki Z.",
+    "created_at": "2026-05-24T03:32:54.026795+00:00"
+  },
+  {
+    "text": "The search bar doesn't accept Unicode characters \u2014 can't search for cr\u00e8me br\u00fbl\u00e9e.",
+    "source": "interview",
+    "rating": "",
+    "user_segment": "free_tier",
+    "author": "Sam P.",
+    "created_at": "2026-03-20T03:32:54.026795+00:00"
+  },
+  {
+    "text": "Dark mode would be a huge upgrade.",
+    "source": "nps",
+    "rating": 4,
+    "user_segment": "free_tier",
+    "author": "Alex A.",
+    "created_at": "2026-05-06T08:32:54.026795+00:00"
+  },
+  {
+    "text": "Dark mode would be a huge upgrade.",
+    "source": "interview",
+    "rating": "",
+    "user_segment": "smb",
+    "author": "Priya C.",
+    "created_at": "2026-02-06T10:32:54.026795+00:00"
+  },
+  {
+    "text": "Sync between devices is unreliable \u2014 sometimes works, sometimes silent failure.",
+    "source": "play_store",
+    "rating": 3,
+    "user_segment": "free_tier",
+    "author": "Jordan T.",
+    "created_at": "2026-04-21T00:32:54.026795+00:00"
+  },
+  {
+    "text": "Loving the app overall, only wish: dark mode!",
+    "source": "play_store",
+    "rating": 4,
+    "user_segment": "free_tier",
+    "author": "Noor C.",
+    "created_at": "2026-03-28T11:32:54.026795+00:00"
+  },
+  {
+    "text": "The new weekly meal plan feature is fantastic.",
+    "source": "zendesk",
+    "rating": "",
+    "user_segment": "new_user",
+    "author": "Sam N.",
+    "created_at": "2026-05-10T10:32:54.026795+00:00"
+  },
+  {
+    "text": "Love the AI recipe feature when it nails it \u2014 but it hallucinates ingredients I don't have.",
+    "source": "interview",
+    "rating": "",
+    "user_segment": "free_tier",
+    "author": "Yuki W.",
+    "created_at": "2026-05-25T23:32:54.026795+00:00"
+  },
+  {
+    "text": "First-time experience felt confusing \u2014 I wasn't sure what the app actually did until step 4.",
+    "source": "interview",
+    "rating": "",
+    "user_segment": "smb",
+    "author": "Chen M.",
+    "created_at": "2026-04-29T05:32:54.026795+00:00"
+  }
+]

@@ -1,0 +1,71 @@
+{
+  "now": [
+    {
+      "feature_id": 10,
+      "feature_title": "Address: Recipe accuracy and subscription value",
+      "theme": "Core Product Quality",
+      "estimated_weeks": 2.0,
+      "depends_on": []
+    },
+    {
+      "feature_id": 11,
+      "feature_title": "Address: AI recipe ingredient hallucinations",
+      "theme": "Core Product Quality",
+      "estimated_weeks": 2.0,
+      "depends_on": []
+    },
+    {
+      "feature_id": 12,
+      "feature_title": "Address: Slow Android Search Performance",
+      "theme": "Core Product Quality",
+      "estimated_weeks": 2.0,
+      "depends_on": []
+    },
+    {
+      "feature_id": 15,
+      "feature_title": "Implement Dark Mode for Reduced Eye Strain",
+      "theme": "Core Product Quality",
+      "estimated_weeks": 2.0,
+      "depends_on": []
+    },
+    {
+      "feature_id": 14,
+      "feature_title": "Improve Pro subscription payment reliability and support",
+      "theme": "Subscription & Monetization",
+      "estimated_weeks": 4.0,
+      "depends_on": []
+    }
+  ],
+  "next": [
+    {
+      "feature_id": 16,
+      "feature_title": "Improve clarity and speed of initial user onboarding",
+      "theme": "User Engagement & Retention",
+      "estimated_weeks": 3.0,
+      "depends_on": []
+    },
+    {
+      "feature_id": 18,
+      "feature_title": "Enhance existing meal planning features",
+      "theme": "User Engagement & Retention",
+      "estimated_weeks": 4.0,
+      "depends_on": []
+    }
+  ],
+  "later": [
+    {
+      "feature_id": 17,
+      "feature_title": "Enhance pantry adaptation and AI recipe suggestions",
+      "theme": "User Engagement & Retention",
+      "estimated_weeks": 4.0,
+      "depends_on": []
+    },
+    {
+      "feature_id": 13,
+      "feature_title": "Address: App is beautiful and easy",
+      "theme": "Core Product Quality",
+      "estimated_weeks": 2.0,
+      "depends_on": []
+    }
+  ]
+}

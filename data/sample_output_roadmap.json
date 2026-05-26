@@ -1,0 +1,70 @@
+{
+  "now": [
+    {
+      "feature_id": 26,
+      "feature_title": "Address: Pantry Adaptation and Recipe Suggestions",
+      "theme": "Improvements",
+      "estimated_weeks": 2.0,
+      "depends_on": []
+    },
+    {
+      "feature_id": 27,
+      "feature_title": "Address: Excellent meal planning features",
+      "theme": "Improvements",
+      "estimated_weeks": 2.0,
+      "depends_on": []
+    },
+    {
+      "feature_id": 20,
+      "feature_title": "Improve AI Recipe Ingredient Accuracy",
+      "theme": "Improvements",
+      "estimated_weeks": 2.0,
+      "depends_on": []
+    },
+    {
+      "feature_id": 21,
+      "feature_title": "Address: Slow Android Search Performance",
+      "theme": "Improvements",
+      "estimated_weeks": 2.0,
+      "depends_on": []
+    },
+    {
+      "feature_id": 23,
+      "feature_title": "Address: Pro subscription payment issues",
+      "theme": "Improvements",
+      "estimated_weeks": 2.0,
+      "depends_on": []
+    },
+    {
+      "feature_id": 24,
+      "feature_title": "Address: Request for dark mode",
+      "theme": "Improvements",
+      "estimated_weeks": 2.0,
+      "depends_on": []
+    },
+    {
+      "feature_id": 25,
+      "feature_title": "Address: Confusing Onboarding Process",
+      "theme": "Improvements",
+      "estimated_weeks": 2.0,
+      "depends_on": []
+    }
+  ],
+  "next": [
+    {
+      "feature_id": 19,
+      "feature_title": "Improve Search and Re-evaluate Subscription Pricing",
+      "theme": "Improvements",
+      "estimated_weeks": 4.0,
+      "depends_on": []
+    },
+    {
+      "feature_id": 22,
+      "feature_title": "Maintain current design and usability standards",
+      "theme": "Improvements",
+      "estimated_weeks": 0.5,
+      "depends_on": []
+    }
+  ],
+  "later": []
+}
