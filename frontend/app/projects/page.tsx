@@ -26,7 +26,15 @@ export default async function ProjectsPage() {
       {error && (
         <div className="card p-4 border-bad/40 bg-bad/5 text-sm">
           Couldn't reach the backend: <span className="text-bad font-mono">{error}</span>
-          <div className="muted mt-2">Make sure the backend is running on <code>localhost:8000</code> and your <code>.env</code> is configured.</div>
+          <div className="muted mt-2">
+            If you're on the deployed site, the backend may be waking up from sleep
+            (Render free tier sleeps after 15 min idle — first request takes ~30s).
+            Refresh in 30 seconds. Locally: make sure <code>uvicorn</code> is running on port 8000.
+          </div>
+          <div className="muted mt-2">
+            Tip: the <a href="/samples" className="text-accent hover:underline">Sample output</a> page
+            works without any backend.
+          </div>
         </div>
       )}
 

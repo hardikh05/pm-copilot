@@ -13,7 +13,7 @@ export default function Nav() {
           <Link href="/samples" className="btn btn-ghost">Sample output</Link>
           <Link href="/projects" className="btn btn-ghost">Projects</Link>
           <a
-            href="https://github.com"
+            href="https://github.com/hardikh05/pm-copilot"
             target="_blank"
             rel="noreferrer"
             className="btn btn-ghost"
